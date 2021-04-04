@@ -5,4 +5,9 @@
   "main": "readme.md",
   "devDependencies": {
     "doctoc": "1.4.0",
-   
+    "husky": "1.2.0",
+    "lint-staged": "8.1.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "gi
