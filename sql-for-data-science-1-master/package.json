@@ -1,4 +1,8 @@
 {
   "name": "sql-for-data-science",
   "version": "1.0.0",
-  "description": "Notes, annotations, and exercises from Coursera's SQL for Data Science course: https://www.co
+  "description": "Notes, annotations, and exercises from Coursera's SQL for Data Science course: https://www.coursera.org/learn/sql-for-data-science",
+  "main": "readme.md",
+  "devDependencies": {
+    "doctoc": "1.4.0",
+   
