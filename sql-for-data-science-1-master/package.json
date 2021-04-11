@@ -10,4 +10,8 @@
   },
   "scripts": {},
   "repository": {
-    "type": "gi
+    "type": "git",
+    "url": "git+https://github.com/larrybotha/sql-for-data-science.git"
+  },
+  "keywords": [],
+  "author": ""
