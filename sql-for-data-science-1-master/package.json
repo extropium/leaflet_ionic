@@ -14,4 +14,7 @@
     "url": "git+https://github.com/larrybotha/sql-for-data-science.git"
   },
   "keywords": [],
-  "author": ""
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larrybotha/sql-for-data-sc
