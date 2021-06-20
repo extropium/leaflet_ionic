@@ -20,4 +20,9 @@
     "url": "https://github.com/larrybotha/sql-for-data-science/issues"
   },
   "homepage": "https://github.com/larrybotha/sql-for-data-science#readme",
-  "hus
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  }
+}
