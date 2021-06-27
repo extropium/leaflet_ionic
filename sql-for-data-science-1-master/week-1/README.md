@@ -4,4 +4,5 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Data Models, Part 1: Thinking About Your Data](#data-models-part-1-thinking-about-your-
+- [Data Models, Part 1: Thinking About Your Data](#data-models-part-1-thinking-about-your-data)
+- [Data Models, Part 2: The Evolution of Data Models](#data-models-part-2-the-evolution-of-data-
