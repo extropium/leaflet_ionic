@@ -8,4 +8,6 @@
 - [Data Models, Part 2: The Evolution of Data Models](#data-models-part-2-the-evolution-of-data-models)
 - [Data Models, Part 3: Relational vs. Transactional Models](#data-models-part-3-relational-vs-transactional-models)
   - [Relational vs Transactional model](#relational-vs-transactional-model)
-  
+  - [Building blocks of data models](#building-blocks-of-data-models)
+  - [ER diagrams](#er-diagrams)
+  - [Primary
