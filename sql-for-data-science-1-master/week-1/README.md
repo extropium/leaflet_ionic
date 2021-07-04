@@ -10,4 +10,6 @@
   - [Relational vs Transactional model](#relational-vs-transactional-model)
   - [Building blocks of data models](#building-blocks-of-data-models)
   - [ER diagrams](#er-diagrams)
-  - [Primary
+  - [Primary and foreign keys](#primary-and-foreign-keys)
+  - [ER diagram notations](#er-diagram-notations)
+    - [Chen notatio
