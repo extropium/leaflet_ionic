@@ -12,4 +12,6 @@
   - [ER diagrams](#er-diagrams)
   - [Primary and foreign keys](#primary-and-foreign-keys)
   - [ER diagram notations](#er-diagram-notations)
-    - [Chen notatio
+    - [Chen notation](#chen-notation)
+    - [Crow's foot notation](#crows-foot-notation)
+    - [UML class diagram notation](#uml-class-d
