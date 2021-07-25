@@ -14,4 +14,5 @@
   - [ER diagram notations](#er-diagram-notations)
     - [Chen notation](#chen-notation)
     - [Crow's foot notation](#crows-foot-notation)
-    - [UML class diagram notation](#uml-class-d
+    - [UML class diagram notation](#uml-class-diagram-notation)
+- [Retrieving Data with a SELECT Statement](#retrieving-data-with-a-select-state
