@@ -15,4 +15,7 @@
     - [Chen notation](#chen-notation)
     - [Crow's foot notation](#crows-foot-notation)
     - [UML class diagram notation](#uml-class-diagram-notation)
-- [Retrieving Data with a SELECT Statement](#retrieving-data-with-a-select-state
+- [Retrieving Data with a SELECT Statement](#retrieving-data-with-a-select-statement)
+  - [Limiting results](#limiting-results)
+- [Creating Tables](#creating-tables)
+  - [Inserting
