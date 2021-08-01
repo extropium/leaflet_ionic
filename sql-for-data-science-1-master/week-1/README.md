@@ -20,4 +20,6 @@
 - [Creating Tables](#creating-tables)
   - [Inserting data](#inserting-data)
     - [Insert implicitly](#insert-implicitly)
-    - [Insert explicitl
+    - [Insert explicitly](#insert-explicitly)
+- [Creating Temporary Tables](#creating-temporary-tables)
+- [Adding Comment
