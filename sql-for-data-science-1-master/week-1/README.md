@@ -18,4 +18,6 @@
 - [Retrieving Data with a SELECT Statement](#retrieving-data-with-a-select-statement)
   - [Limiting results](#limiting-results)
 - [Creating Tables](#creating-tables)
-  - [Inserting
+  - [Inserting data](#inserting-data)
+    - [Insert implicitly](#insert-implicitly)
+    - [Insert explicitl
