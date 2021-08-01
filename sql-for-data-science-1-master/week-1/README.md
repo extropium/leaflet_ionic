@@ -22,4 +22,6 @@
     - [Insert implicitly](#insert-implicitly)
     - [Insert explicitly](#insert-explicitly)
 - [Creating Temporary Tables](#creating-temporary-tables)
-- [Adding Comment
+- [Adding Comments to SQL](#adding-comments-to-sql)
+  - [Single line comments](#single-line-comments)
+  - [Multi-line
