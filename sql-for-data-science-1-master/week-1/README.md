@@ -24,4 +24,6 @@
 - [Creating Temporary Tables](#creating-temporary-tables)
 - [Adding Comments to SQL](#adding-comments-to-sql)
   - [Single line comments](#single-line-comments)
-  - [Multi-line
+  - [Multi-line comments](#multi-line-comments)
+
+<!-- END doctoc generated TOC please keep comment here to allow 
