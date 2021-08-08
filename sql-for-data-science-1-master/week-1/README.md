@@ -26,4 +26,8 @@
   - [Single line comments](#single-line-comments)
   - [Multi-line comments](#multi-line-comments)
 
-<!-- END doctoc generated TOC please keep comment here to allow 
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Data Models, Part 1: Thinking About Your Data
+
+[video](https://www.coursera.org/lear
