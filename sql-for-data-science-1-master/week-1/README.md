@@ -30,4 +30,6 @@
 
 ## Data Models, Part 1: Thinking About Your Data
 
-[video](https://www.coursera.org/lear
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/emmOd/data-models-part-1-thinking-about-your-data)
+
+It's important to think about r
