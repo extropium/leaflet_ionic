@@ -35,4 +35,6 @@
 It's important to think about requirements before implementing anything.
 Front-loading this work saves time later.
 
-## 
+## Data Models, Part 2: The Evolution of Data Models
+
+[video](https://www.coursera.org/learn/sql-for-data-science/le
