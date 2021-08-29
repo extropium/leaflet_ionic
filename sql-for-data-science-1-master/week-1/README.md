@@ -37,4 +37,6 @@ Front-loading this work saves time later.
 
 ## Data Models, Part 2: The Evolution of Data Models
 
-[video](https://www.coursera.org/learn/sql-for-data-science/le
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/MJ3Q5/data-models-part-2-the-evolution-of-data-models)
+
+- **data modeling:** the organising of multiple ta
