@@ -42,4 +42,5 @@ Front-loading this work saves time later.
 - **data modeling:** the organising of multiple tables, and how they relate to
     each other
     - usually represents a business process
-    - can hel
+    - can help in understanding business processes
+    - data models should always represent a real world problem as cl
