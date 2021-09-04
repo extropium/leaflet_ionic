@@ -39,4 +39,7 @@ Front-loading this work saves time later.
 
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/MJ3Q5/data-models-part-2-the-evolution-of-data-models)
 
-- **data modeling:** the organising of multiple ta
+- **data modeling:** the organising of multiple tables, and how they relate to
+    each other
+    - usually represents a business process
+    - can hel
