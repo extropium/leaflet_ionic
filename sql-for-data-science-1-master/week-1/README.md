@@ -43,4 +43,9 @@ Front-loading this work saves time later.
     each other
     - usually represents a business process
     - can help in understanding business processes
-    - data models should always represent a real world problem as cl
+    - data models should always represent a real world problem as closely as
+        possible
+
+## Data Models, Part 3: Relational vs. Transactional Models
+
+[video](https://www.cours
