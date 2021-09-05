@@ -48,4 +48,6 @@ Front-loading this work saves time later.
 
 ## Data Models, Part 3: Relational vs. Transactional Models
 
-[video](https://www.cours
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/HRlau/data-models-part-3-relational-vs-transactional-models)
+
+### 
