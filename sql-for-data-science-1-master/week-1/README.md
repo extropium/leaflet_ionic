@@ -50,4 +50,7 @@ Front-loading this work saves time later.
 
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/HRlau/data-models-part-3-relational-vs-transactional-models)
 
-### 
+### Relational vs Transactional model
+
+- relational:
+    - allows for easy querying and data manipulation
