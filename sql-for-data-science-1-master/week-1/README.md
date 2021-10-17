@@ -65,3 +65,7 @@ Front-loading this work saves time later.
 
 1. entities
     - these are discrete 'things'
+    - e.g. person, place, event, etc.
+2. attributes
+    - characteristics of entities
+    - e.g. age, height,
