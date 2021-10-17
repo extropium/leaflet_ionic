@@ -58,4 +58,10 @@ Front-loading this work saves time later.
 - transactional:
     - used for storing data, and not necessarily for querying data
     - e.g. medical database of patient data
-    - data usually needs to be extracted into a relational model to be 
+    - data usually needs to be extracted into a relational model to be made
+        sense of
+
+### Building blocks of data models
+
+1. entities
+    - these are discrete 'things'
