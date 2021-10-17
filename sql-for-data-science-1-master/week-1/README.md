@@ -56,4 +56,6 @@ Front-loading this work saves time later.
     - allows for easy querying and data manipulation
     - logical and intuitive querying
 - transactional:
-    - used for storing data, and not necessarily for querying dat
+    - used for storing data, and not necessarily for querying data
+    - e.g. medical database of patient data
+    - data usually needs to be extracted into a relational model to be 
