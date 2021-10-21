@@ -68,4 +68,8 @@ Front-loading this work saves time later.
     - e.g. person, place, event, etc.
 2. attributes
     - characteristics of entities
-    - e.g. age, height,
+    - e.g. age, height, etc.
+3. relationships
+    - associations between entities
+    - one-to-many
+         
