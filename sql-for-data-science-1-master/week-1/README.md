@@ -75,4 +75,9 @@ Front-loading this work saves time later.
           - a customer's invoices
     - many-to-many
           - students assigned to classes
-    - one-t
+    - one-to-one
+          - a manager for a store
+
+### ER diagrams
+
+ER (entity-relationship) diagrams are composed of entity 
