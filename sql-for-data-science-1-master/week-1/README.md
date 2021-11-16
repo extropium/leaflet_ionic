@@ -80,4 +80,7 @@ Front-loading this work saves time later.
 
 ### ER diagrams
 
-ER (entity-relationship) diagrams are composed of entity 
+ER (entity-relationship) diagrams are composed of entity types, and specify
+relationships between those entities.
+
+<img alt="simple ER diagram" src="../asset
