@@ -72,4 +72,7 @@ Front-loading this work saves time later.
 3. relationships
     - associations between entities
     - one-to-many
-         
+          - a customer's invoices
+    - many-to-many
+          - students assigned to classes
+    - one-t
