@@ -83,4 +83,8 @@ Front-loading this work saves time later.
 ER (entity-relationship) diagrams are composed of entity types, and specify
 relationships between those entities.
 
-<img alt="simple ER diagram" src="../asset
+<img alt="simple ER diagram" src="../assets/week-1/er-diagram-simple.jpg" width="50%" />
+
+They have the following functions:
+
+- show entity relati
