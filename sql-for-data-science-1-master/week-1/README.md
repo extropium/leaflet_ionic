@@ -87,4 +87,9 @@ relationships between those entities.
 
 They have the following functions:
 
-- show entity relati
+- show entity relationships
+- show business processes
+- are visual aids
+- show links through primary keys
+
+<img alt="detailed 
