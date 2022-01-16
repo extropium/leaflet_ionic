@@ -120,4 +120,11 @@ Uses `1` and `M` to signify relationships on entities:
 - `--||-`: 1
 - `--|ᗕ`:  many
 
-<img alt="crow's foot notation" src="../assets/week-1/er-diagram-notation-crows-foot.jpg" width="50%" 
+<img alt="crow's foot notation" src="../assets/week-1/er-diagram-notation-crows-foot.jpg" width="50%" />
+
+#### UML class diagram notation
+
+- 1.1: 1
+- 1.*: many
+
+<img alt="uml notation" src="../assets/week-1/er-diagram-notat
