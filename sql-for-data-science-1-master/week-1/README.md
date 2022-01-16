@@ -100,4 +100,6 @@ Primary and foreign keys are the mechanism by which tables are related to each
 other.
 
 - primary key
-  
+    - a column, or set of columns, that uniquely identifies every row in a table
+- foreign key
+    - one or m
