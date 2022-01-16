@@ -102,4 +102,7 @@ other.
 - primary key
     - a column, or set of columns, that uniquely identifies every row in a table
 - foreign key
-    - one or m
+    - one or more columns that can be used together to identify a single row in
+        another table
+
+<img alt="ER diagram
