@@ -118,4 +118,6 @@ Uses `1` and `M` to signify relationships on entities:
 #### Crow's foot notation
 
 - `--||-`: 1
-- `--|ᗕ`:
+- `--|ᗕ`:  many
+
+<img alt="crow's foot notation" src="../assets/week-1/er-diagram-notation-crows-foot.jpg" width="50%" 
