@@ -95,3 +95,9 @@ They have the following functions:
 <img alt="detailed ER diagram" src="../assets/week-1/er-diagram-detailed.jpg" width="50%" />
 
 ### Primary and foreign keys
+
+Primary and foreign keys are the mechanism by which tables are related to each
+other.
+
+- primary key
+  
