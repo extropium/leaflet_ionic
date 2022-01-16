@@ -92,4 +92,6 @@ They have the following functions:
 - are visual aids
 - show links through primary keys
 
-<img alt="detailed 
+<img alt="detailed ER diagram" src="../assets/week-1/er-diagram-detailed.jpg" width="50%" />
+
+### Primary and foreign keys
