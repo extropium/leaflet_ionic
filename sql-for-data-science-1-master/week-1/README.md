@@ -113,4 +113,9 @@ other.
 
 Uses `1` and `M` to signify relationships on entities:
 
-<img alt="chen notation" src="../a
+<img alt="chen notation" src="../assets/week-1/er-diagram-notation-chen.jpg" width="50%" />
+
+#### Crow's foot notation
+
+- `--||-`: 1
+- `--|ᗕ`:
