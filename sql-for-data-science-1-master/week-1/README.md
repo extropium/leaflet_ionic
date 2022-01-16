@@ -109,4 +109,8 @@ other.
 
 ### ER diagram notations
 
-#
+#### Chen notation
+
+Uses `1` and `M` to signify relationships on entities:
+
+<img alt="chen notation" src="../a
