@@ -105,4 +105,8 @@ other.
     - one or more columns that can be used together to identify a single row in
         another table
 
-<img alt="ER diagram
+<img alt="ER diagram with keys" src="../assets/week-1/er-diagram-keys.jpg" width="50%" />
+
+### ER diagram notations
+
+#
