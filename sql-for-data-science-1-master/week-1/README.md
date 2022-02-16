@@ -127,4 +127,8 @@ Uses `1` and `M` to signify relationships on entities:
 - 1.1: 1
 - 1.*: many
 
-<img alt="uml notation" src="../assets/week-1/er-diagram-notat
+<img alt="uml notation" src="../assets/week-1/er-diagram-notation-uml.jpg" width="50%" />
+
+## Retrieving Data with a SELECT Statement
+
+[video](https://www.course
