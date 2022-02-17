@@ -133,4 +133,7 @@ Uses `1` and `M` to signify relationships on entities:
 
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/oN0Ks/retrieving-data-with-a-select-statement)
 
-`SELECT` is used to re
+`SELECT` is used to retrieve data from tables, and `FROM` indicates where to
+retrieve the data from.
+
+Select one field from a table
