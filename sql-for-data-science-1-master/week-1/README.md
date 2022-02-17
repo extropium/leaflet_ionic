@@ -136,4 +136,15 @@ Uses `1` and `M` to signify relationships on entities:
 `SELECT` is used to retrieve data from tables, and `FROM` indicates where to
 retrieve the data from.
 
-Select one field from a table
+Select one field from a table:
+
+```sql
+SELECT my_field
+FROM my_table;
+```
+
+Select multiple fields from a table:
+
+```sql
+SELECT
+  
