@@ -153,4 +153,13 @@ SELECT
 FROM my_table;
 ```
 
-Select all fields from a table using a
+Select all fields from a table using a wildcard:
+
+```sql
+SELECT *
+FROM my_table;
+```
+
+### Limiting results
+
+To limit the number of results retrieved,
