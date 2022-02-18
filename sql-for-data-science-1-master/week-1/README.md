@@ -162,4 +162,12 @@ FROM my_table;
 
 ### Limiting results
 
-To limit the number of results retrieved,
+To limit the number of results retrieved, use the `LIMIT` statement.
+
+```sql
+SELECT [fields]
+FROM table_name
+LIMIT quantity;
+```
+
+Syntax differs depending
