@@ -147,4 +147,10 @@ Select multiple fields from a table:
 
 ```sql
 SELECT
-  
+  my_field_a
+  , my_field_b
+  , my_field_c
+FROM my_table;
+```
+
+Select all fields from a table using a
