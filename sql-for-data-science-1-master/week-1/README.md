@@ -174,4 +174,8 @@ Syntax differs depending on the flavour of SQL.
 
 ## Creating Tables
 
-[video](https://www.coursera.org/learn/sql-for-data-scie
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/kuYRl/creating-tables)
+
+```sql
+CREATE TABLE table_name (
+  id        [dataType] PRIMARY 
