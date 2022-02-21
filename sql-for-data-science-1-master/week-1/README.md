@@ -170,4 +170,8 @@ FROM table_name
 LIMIT quantity;
 ```
 
-Syntax differs depending
+Syntax differs depending on the flavour of SQL.
+
+## Creating Tables
+
+[video](https://www.coursera.org/learn/sql-for-data-scie
