@@ -178,4 +178,7 @@ Syntax differs depending on the flavour of SQL.
 
 ```sql
 CREATE TABLE table_name (
-  id        [dataType] PRIMARY 
+  id        [dataType] PRIMARY KEY,
+  field_a   [dataType] NOT NULL,
+  field_b   [dataType] NOT NULL,
+  field_c   [dataType] NU
