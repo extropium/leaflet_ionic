@@ -181,4 +181,9 @@ CREATE TABLE table_name (
   id        [dataType] PRIMARY KEY,
   field_a   [dataType] NOT NULL,
   field_b   [dataType] NOT NULL,
-  field_c   [dataType] NU
+  field_c   [dataType] NULL,
+)
+```
+
+`id` is the primary key for the table - how we will reference this field from
+other tables. Primary keys cann
