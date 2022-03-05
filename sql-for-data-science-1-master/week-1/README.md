@@ -186,4 +186,7 @@ CREATE TABLE table_name (
 ```
 
 `id` is the primary key for the table - how we will reference this field from
-other tables. Primary keys cann
+other tables. Primary keys cannot accept `NULL` values.
+
+`field_a` and `field_b` may not ever contain `NULL`. `NULL` is not the same as
+falsy
