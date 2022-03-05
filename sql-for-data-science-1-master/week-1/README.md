@@ -189,4 +189,5 @@ CREATE TABLE table_name (
 other tables. Primary keys cannot accept `NULL` values.
 
 `field_a` and `field_b` may not ever contain `NULL`. `NULL` is not the same as
-falsy
+falsy values in programming languages. An empty string or 0 are not `NULL`.
+`NULL` indicates no presence of
