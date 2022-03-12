@@ -190,4 +190,9 @@ other tables. Primary keys cannot accept `NULL` values.
 
 `field_a` and `field_b` may not ever contain `NULL`. `NULL` is not the same as
 falsy values in programming languages. An empty string or 0 are not `NULL`.
-`NULL` indicates no presence of
+`NULL` indicates no presence of any value.
+
+Fields that are defined as `NOT NULL` will return an error if not provided a
+value.
+
+### I
