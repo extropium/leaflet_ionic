@@ -195,4 +195,6 @@ falsy values in programming languages. An empty string or 0 are not `NULL`.
 Fields that are defined as `NOT NULL` will return an error if not provided a
 value.
 
-### I
+### Inserting data
+
+We use `INSERT INTO` and `VALUES` to define the table to write data to. There are two ways to
