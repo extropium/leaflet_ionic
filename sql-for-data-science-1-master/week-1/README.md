@@ -200,4 +200,6 @@ value.
 We use `INSERT INTO` and `VALUES` to define the table to write data to. There are two ways to
 insert data; implicitly without field names, or explicitly with field names.
 
-#### Insert i
+#### Insert implicitly
+
+Given a table `shoes` with fields for `id`, `brand`, `color`, `price`, and `desc
