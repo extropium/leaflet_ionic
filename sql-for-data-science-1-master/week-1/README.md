@@ -202,4 +202,15 @@ insert data; implicitly without field names, or explicitly with field names.
 
 #### Insert implicitly
 
-Given a table `shoes` with fields for `id`, `brand`, `color`, `price`, and `desc
+Given a table `shoes` with fields for `id`, `brand`, `color`, `price`, and `desc`:
+
+```sql
+INSERT INTO shoes
+VALUES (
+  1, 'Gucci', 'Black', '25000', NULL
+);
+```
+
+#### Insert explicitly
+
+Given a
