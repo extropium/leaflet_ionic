@@ -213,4 +213,8 @@ VALUES (
 
 #### Insert explicitly
 
-Given a
+Given a table `shoes` with fields for `id`, `brand`, `color`, `price`, and `desc`:
+
+```sql
+INSERT INTO shoes
+(id, brand, 
