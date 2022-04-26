@@ -222,4 +222,7 @@ VALUES
 (1, 'Gucci', 'Black', '25000', NULL);
 ```
 
-This method is more flexible, as we're 
+This method is more flexible, as we're not relying on column order, and we can
+specify exactly which fields we want to write data to.
+
+## Creating Tem
