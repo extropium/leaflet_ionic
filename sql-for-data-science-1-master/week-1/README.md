@@ -217,4 +217,9 @@ Given a table `shoes` with fields for `id`, `brand`, `color`, `price`, and `desc
 
 ```sql
 INSERT INTO shoes
-(id, brand, 
+(id, brand, color, price, desc)
+VALUES
+(1, 'Gucci', 'Black', '25000', NULL);
+```
+
+This method is more flexible, as we're 
