@@ -227,4 +227,7 @@ specify exactly which fields we want to write data to.
 
 ## Creating Temporary Tables
 
-[video](https://www.coursera.org/learn/sql-for-data-science/lecture/3fVNc/crea
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/3fVNc/creating-temporary-tables)
+
+Temporary tables are useful when we want to clone a table, or get a subset of a
+ta
