@@ -225,4 +225,6 @@ VALUES
 This method is more flexible, as we're not relying on column order, and we can
 specify exactly which fields we want to write data to.
 
-## Creating Tem
+## Creating Temporary Tables
+
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/3fVNc/crea
