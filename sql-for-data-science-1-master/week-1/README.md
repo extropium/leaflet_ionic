@@ -234,4 +234,6 @@ table without having to create an actual table.
 
 Features of temporary tables:
 
-- deleted once the sessi
+- deleted once the session is over
+- are faster to create than real tables
+- are useful for complex queries that use subsets or join
