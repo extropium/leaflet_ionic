@@ -236,4 +236,9 @@ Features of temporary tables:
 
 - deleted once the session is over
 - are faster to create than real tables
-- are useful for complex queries that use subsets or join
+- are useful for complex queries that use subsets or joins
+
+To create temporary tables, we use the `TEMPORARY` statement:
+
+```sql
+CREATE TEMPORARY TABLE s
