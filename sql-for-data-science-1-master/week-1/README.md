@@ -241,4 +241,10 @@ Features of temporary tables:
 To create temporary tables, we use the `TEMPORARY` statement:
 
 ```sql
-CREATE TEMPORARY TABLE s
+CREATE TEMPORARY TABLE sandals_temp AS (
+  SELECT * from shoes
+  WHERE shoe_type = 'sandals'
+)
+```
+
+For MySQL there's no guara
