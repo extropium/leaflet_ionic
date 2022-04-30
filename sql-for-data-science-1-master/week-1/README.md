@@ -247,4 +247,5 @@ CREATE TEMPORARY TABLE sandals_temp AS (
 )
 ```
 
-For MySQL there's no guara
+For MySQL there's no guarantee that a temporary table will be deleted. Dropping
+temporary tables once they are no longer required is consider
