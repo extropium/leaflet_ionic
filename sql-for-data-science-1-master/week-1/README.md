@@ -254,4 +254,5 @@ temporary tables once they are no longer required is considered good practice.
 DROP TEMPORARY TABLE sandals_temp;
 ```
 
-Although there's nothing preventing one 
+Although there's nothing preventing one from creating a temporary table with the
+same name as an existing table, it could lead to issues in deleti
