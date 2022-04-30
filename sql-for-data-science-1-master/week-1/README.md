@@ -255,4 +255,11 @@ DROP TEMPORARY TABLE sandals_temp;
 ```
 
 Although there's nothing preventing one from creating a temporary table with the
-same name as an existing table, it could lead to issues in deleti
+same name as an existing table, it could lead to issues in deleting
+non-temporary data.
+
+## Adding Comments to SQL
+
+### Single line comments
+
+Use `--` to comment out sing
