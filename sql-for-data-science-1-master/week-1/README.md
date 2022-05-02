@@ -262,4 +262,13 @@ non-temporary data.
 
 ### Single line comments
 
-Use `--` to comment out sing
+Use `--` to comment out single lines.
+
+```sql
+SELECT shoe_id
+--, brand_id
+, shoe_name
+FROM shoes
+```
+
+MySQL allows for `#
