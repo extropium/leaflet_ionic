@@ -271,4 +271,10 @@ SELECT shoe_id
 FROM shoes
 ```
 
-MySQL allows for `#
+MySQL allows for `#` to be used in addition to `--`.
+
+### Multi-line comments
+
+Use `/* */` to comment out multiple lines.
+
+```
