@@ -277,4 +277,11 @@ MySQL allows for `#` to be used in addition to `--`.
 
 Use `/* */` to comment out multiple lines.
 
+```sql
+SELECT shoe_id
+/*, brand_id
+, shoe_name
+*/
+FROM shoes
 ```
+
