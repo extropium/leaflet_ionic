@@ -6,4 +6,6 @@
 
 - [Module Introduction](#module-introduction)
 - [Basics of Filtering with SQL](#basics-of-filtering-with-sql)
-  - 
+  - [Why filter](#why-filter)
+  - [`WHERE` clause](#where-clause)
+- [Advanced Filtering: `IN`, `OR`, an
