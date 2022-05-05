@@ -4,4 +4,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Module Introduction](#module-i
+- [Module Introduction](#module-introduction)
+- [Basics of Filtering with SQL](#basics-of-filtering-with-sql)
+  - 
