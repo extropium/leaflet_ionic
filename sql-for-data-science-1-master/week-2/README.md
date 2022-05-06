@@ -10,4 +10,7 @@
   - [`WHERE` clause](#where-clause)
 - [Advanced Filtering: `IN`, `OR`, and `NOT`](#advanced-filtering-in-or-and-not)
   - [`IN` operator](#in-operator)
-  - [`OR` operator](#or-ope
+  - [`OR` operator](#or-operator)
+  - [`IN` vs `OR`](#in-vs-or)
+  - [`NOT` operator](#not-operator)
+- [Using Wildcards 
