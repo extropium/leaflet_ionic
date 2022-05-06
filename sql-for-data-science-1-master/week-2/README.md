@@ -8,4 +8,6 @@
 - [Basics of Filtering with SQL](#basics-of-filtering-with-sql)
   - [Why filter](#why-filter)
   - [`WHERE` clause](#where-clause)
-- [Advanced Filtering: `IN`, `OR`, an
+- [Advanced Filtering: `IN`, `OR`, and `NOT`](#advanced-filtering-in-or-and-not)
+  - [`IN` operator](#in-operator)
+  - [`OR` operator](#or-ope
