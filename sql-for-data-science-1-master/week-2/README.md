@@ -13,4 +13,6 @@
   - [`OR` operator](#or-operator)
   - [`IN` vs `OR`](#in-vs-or)
   - [`NOT` operator](#not-operator)
-- [Using Wildcards 
+- [Using Wildcards in SQL](#using-wildcards-in-sql)
+  - [Using wildcards](#using-wildcards)
+  - [Underscore wildcard](#underscor
