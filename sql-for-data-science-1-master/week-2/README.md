@@ -17,4 +17,6 @@
   - [Using wildcards](#using-wildcards)
   - [Underscore wildcard](#underscore-wildcard)
   - [Implications of using wildcards](#implications-of-using-wildcards)
-- 
+- [Sorting with `ORDER BY`](#sorting-with-order-by)
+  - [Sort direction](#sort-direction)
+  - [Sorting by colu
