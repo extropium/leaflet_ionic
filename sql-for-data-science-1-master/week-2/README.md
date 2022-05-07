@@ -15,4 +15,6 @@
   - [`NOT` operator](#not-operator)
 - [Using Wildcards in SQL](#using-wildcards-in-sql)
   - [Using wildcards](#using-wildcards)
-  - [Underscore wildcard](#underscor
+  - [Underscore wildcard](#underscore-wildcard)
+  - [Implications of using wildcards](#implications-of-using-wildcards)
+- 
