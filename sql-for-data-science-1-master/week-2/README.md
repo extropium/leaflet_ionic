@@ -26,4 +26,6 @@
   - [`COUNT` function](#count-function)
   - [`MAX` and `MIN` functions](#max-and-min-functions)
   - [`SUM` function](#sum-function)
-  - 
+  - [`DISTINCT`](#distinct)
+- [Grouping Data with SQL](#grouping-data-with-sql)
+  - [Using `GROUP BY`](#using-group-by)
