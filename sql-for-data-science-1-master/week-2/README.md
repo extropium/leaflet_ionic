@@ -21,4 +21,6 @@
   - [Sort direction](#sort-direction)
   - [Sorting by columns position](#sorting-by-columns-position)
 - [Math operations](#math-operations)
-- [Aggre
+- [Aggregate Functions](#aggregate-functions)
+  - [`AVG` function](#avg-function)
+  - [`COUNT` function](#cou
