@@ -19,4 +19,6 @@
   - [Implications of using wildcards](#implications-of-using-wildcards)
 - [Sorting with `ORDER BY`](#sorting-with-order-by)
   - [Sort direction](#sort-direction)
-  - [Sorting by colu
+  - [Sorting by columns position](#sorting-by-columns-position)
+- [Math operations](#math-operations)
+- [Aggre
