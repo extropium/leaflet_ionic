@@ -23,4 +23,7 @@
 - [Math operations](#math-operations)
 - [Aggregate Functions](#aggregate-functions)
   - [`AVG` function](#avg-function)
-  - [`COUNT` function](#cou
+  - [`COUNT` function](#count-function)
+  - [`MAX` and `MIN` functions](#max-and-min-functions)
+  - [`SUM` function](#sum-function)
+  - 
