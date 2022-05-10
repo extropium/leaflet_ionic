@@ -30,4 +30,7 @@
 - [Grouping Data with SQL](#grouping-data-with-sql)
   - [Using `GROUP BY`](#using-group-by)
   - [`WHERE`, `HAVING`, and `GROUP BY`](#where-having-and-group-by)
-  - [`GROUP BY` and `ORDER BY`](#gro
+  - [`GROUP BY` and `ORDER BY`](#group-by-and-order-by)
+- [Putting it all together](#putting-it-all-together)
+
+<!-- END doctoc ge
