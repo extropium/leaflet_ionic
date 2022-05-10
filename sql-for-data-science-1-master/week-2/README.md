@@ -29,3 +29,5 @@
   - [`DISTINCT`](#distinct)
 - [Grouping Data with SQL](#grouping-data-with-sql)
   - [Using `GROUP BY`](#using-group-by)
+  - [`WHERE`, `HAVING`, and `GROUP BY`](#where-having-and-group-by)
+  - [`GROUP BY` and `ORDER BY`](#gro
