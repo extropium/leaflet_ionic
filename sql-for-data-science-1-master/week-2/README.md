@@ -33,4 +33,9 @@
   - [`GROUP BY` and `ORDER BY`](#group-by-and-order-by)
 - [Putting it all together](#putting-it-all-together)
 
-<!-- END doctoc ge
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+## Module Introduction
+
+[video](https://www.cour
