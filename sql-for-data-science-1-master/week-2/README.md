@@ -38,4 +38,6 @@
 
 ## Module Introduction
 
-[video](https://www.cour
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/GAA9h/module-introduction)
+
+This module introduces a number of operato
