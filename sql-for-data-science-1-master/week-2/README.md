@@ -40,4 +40,13 @@
 
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/GAA9h/module-introduction)
 
-This module introduces a number of operato
+This module introduces a number of operators and clauses to query data:
+
+- `WHERE`
+- `BETWEEN`
+- `IN`
+- `OR`
+- `NOT`
+- `LIKE`
+- `ORDER BY`
+- `GROU
