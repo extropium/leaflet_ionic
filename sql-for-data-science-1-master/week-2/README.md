@@ -49,4 +49,9 @@ This module introduces a number of operators and clauses to query data:
 - `NOT`
 - `LIKE`
 - `ORDER BY`
-- `GROU
+- `GROUP BY`
+
+It also introduces wildcards, and math operators which can be used to aggregate
+data:
+
+- `AV
