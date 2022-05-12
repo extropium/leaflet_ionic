@@ -54,4 +54,11 @@ This module introduces a number of operators and clauses to query data:
 It also introduces wildcards, and math operators which can be used to aggregate
 data:
 
-- `AV
+- `AVERAGE`
+- `COUNT`
+- `MAX`
+- `MIN`
+
+## Basics of Filtering with SQL
+
+[video](https:/
