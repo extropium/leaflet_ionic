@@ -61,4 +61,6 @@ data:
 
 ## Basics of Filtering with SQL
 
-[video](https:/
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/ESCUo/basics-of-filtering-with-sql)
+
+### Wh
