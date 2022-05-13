@@ -68,4 +68,12 @@ data:
 - allows one to be specific about what they want
 - reduces the number of records you receive
 - increases query performance
-- reduces strain on the client applicat
+- reduces strain on the client application
+
+### `WHERE` clause
+
+The `WHERE` clause filters queries by criteria you define.
+
+```sql
+SELECT [fields]
+FRO
