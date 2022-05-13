@@ -76,4 +76,8 @@ The `WHERE` clause filters queries by criteria you define.
 
 ```sql
 SELECT [fields]
-FRO
+FROM [table]
+WHERE [criteria]
+```
+
+These criteria are determined through using a number of operators
