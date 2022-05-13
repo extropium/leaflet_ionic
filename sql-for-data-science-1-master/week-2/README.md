@@ -63,4 +63,7 @@ data:
 
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/ESCUo/basics-of-filtering-with-sql)
 
-### Wh
+### Why filter
+
+- allows one to be specific about what they want
+- reduces the number of reco
