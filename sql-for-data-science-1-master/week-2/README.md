@@ -66,4 +66,6 @@ data:
 ### Why filter
 
 - allows one to be specific about what they want
-- reduces the number of reco
+- reduces the number of records you receive
+- increases query performance
+- reduces strain on the client applicat
