@@ -87,4 +87,8 @@ These criteria are determined through using a number of operators:
 - `>` - greater than
 - `<` - less than
 - `>=` - greater than or equal
-- `<=
+- `<=` - less than or equal
+- `BETWEEN` - between an _inclusive_ range
+- `IS NULL` - is a null value
+
+To use
