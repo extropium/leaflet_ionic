@@ -80,4 +80,11 @@ FROM [table]
 WHERE [criteria]
 ```
 
-These criteria are determined through using a number of operators
+These criteria are determined through using a number of operators:
+
+- `=` - equal
+- `<>` - not equal
+- `>` - greater than
+- `<` - less than
+- `>=` - greater than or equal
+- `<=
