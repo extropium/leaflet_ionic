@@ -96,4 +96,9 @@ To use `BETWEEN` we need to use it in conjunction with `AND`:
 ```sql
 SELECT *
 FROM my_table
-WHERE size BETWEE
+WHERE size BETWEEN 5 AND 10;
+```
+
+## Advanced Filtering: `IN`, `OR`, and `NOT`
+
+[video](https://www.coursera.
