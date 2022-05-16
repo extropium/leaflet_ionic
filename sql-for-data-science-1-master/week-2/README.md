@@ -105,4 +105,8 @@ WHERE size BETWEEN 5 AND 10;
 
 ### `IN` operator
 
-The `IN` operato
+The `IN` operator specifies a range of conditions, delimited by commas, and
+within parentheses.
+
+```sql
+-- select only suppl
