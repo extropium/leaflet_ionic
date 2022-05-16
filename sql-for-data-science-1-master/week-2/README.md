@@ -91,4 +91,9 @@ These criteria are determined through using a number of operators:
 - `BETWEEN` - between an _inclusive_ range
 - `IS NULL` - is a null value
 
-To use
+To use `BETWEEN` we need to use it in conjunction with `AND`:
+
+```sql
+SELECT *
+FROM my_table
+WHERE size BETWEE
