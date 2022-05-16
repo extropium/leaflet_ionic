@@ -101,4 +101,8 @@ WHERE size BETWEEN 5 AND 10;
 
 ## Advanced Filtering: `IN`, `OR`, and `NOT`
 
-[video](https://www.coursera.
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/pycB9/advanced-filtering-in-or-and-not)
+
+### `IN` operator
+
+The `IN` operato
