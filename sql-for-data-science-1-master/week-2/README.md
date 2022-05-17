@@ -119,4 +119,5 @@ To assert against string values, surround the strings in single quotes.
 
 ### `OR` operator
 
-As with the disjunc
+As with the disjunction operator in many programming languages, SQL will ignore
+the second condition in an `OR` s
