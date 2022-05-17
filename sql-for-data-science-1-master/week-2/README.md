@@ -109,4 +109,10 @@ The `IN` operator specifies a range of conditions, delimited by commas, and
 within parentheses.
 
 ```sql
--- select only suppl
+-- select only suppliers with the provided ids
+SELECT *
+FROM suppliers
+WHERE supplierId IN (9, 10, 15);
+```
+
+To assert again
