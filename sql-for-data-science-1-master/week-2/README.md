@@ -115,4 +115,8 @@ FROM suppliers
 WHERE supplierId IN (9, 10, 15);
 ```
 
-To assert again
+To assert against string values, surround the strings in single quotes.
+
+### `OR` operator
+
+As with the disjunc
