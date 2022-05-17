@@ -120,4 +120,12 @@ To assert against string values, surround the strings in single quotes.
 ### `OR` operator
 
 As with the disjunction operator in many programming languages, SQL will ignore
-the second condition in an `OR` s
+the second condition in an `OR` statement if the first condition is true.
+
+```sql
+SELECT *
+FROM pets
+WHERE name = 'sammy' OR 'hammy';
+```
+
+#
