@@ -132,4 +132,6 @@ WHERE name = 'sammy' OR 'hammy';
 
 `IN` works similarly to `OR`, but there are benefits to using `IN`:
 
-- one can provide a long list
+- one can provide a long list of options
+- `IN` executes faster than `OR`
+- the condition used in `IN` are not subject to a specific order
