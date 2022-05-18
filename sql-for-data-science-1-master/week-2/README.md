@@ -128,4 +128,8 @@ FROM pets
 WHERE name = 'sammy' OR 'hammy';
 ```
 
-#
+### `IN` vs `OR`
+
+`IN` works similarly to `OR`, but there are benefits to using `IN`:
+
+- one can provide a long list
