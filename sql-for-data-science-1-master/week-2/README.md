@@ -135,3 +135,6 @@ WHERE name = 'sammy' OR 'hammy';
 - one can provide a long list of options
 - `IN` executes faster than `OR`
 - the condition used in `IN` are not subject to a specific order
+- `IN` clauses can container another `SELECT` statement to make subqueries
+
+### `NOT` operator
