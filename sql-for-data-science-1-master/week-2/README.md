@@ -138,3 +138,10 @@ WHERE name = 'sammy' OR 'hammy';
 - `IN` clauses can container another `SELECT` statement to make subqueries
 
 ### `NOT` operator
+
+`NOT` is used to exclude rows based on conditions:
+
+```sql
+SELECT *
+FROM employees
+WHERE NOT cit
