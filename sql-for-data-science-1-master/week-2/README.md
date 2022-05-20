@@ -151,4 +151,7 @@ WHERE NOT city = 'London' AND NOT city = 'Seattle';
 
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/xIAow/using-wildcards-in-sql)
 
-A wildcard is a special character
+A wildcard is a special character used to match parts of a value, such as when
+you know only a portion of a value.
+
+Search patterns ar
