@@ -149,4 +149,6 @@ WHERE NOT city = 'London' AND NOT city = 'Seattle';
 
 ## Using Wildcards in SQL
 
-[video](https://www.cou
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/xIAow/using-wildcards-in-sql)
+
+A wildcard is a special character
