@@ -144,4 +144,9 @@ WHERE name = 'sammy' OR 'hammy';
 ```sql
 SELECT *
 FROM employees
-WHERE NOT cit
+WHERE NOT city = 'London' AND NOT city = 'Seattle';
+```
+
+## Using Wildcards in SQL
+
+[video](https://www.cou
