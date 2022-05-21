@@ -154,4 +154,7 @@ WHERE NOT city = 'London' AND NOT city = 'Seattle';
 A wildcard is a special character used to match parts of a value, such as when
 you know only a portion of a value.
 
-Search patterns ar
+Search patterns are made from literal text, a wildcard character, or a
+combination of both.
+
+Wildcard queries use the `LIKE` o
