@@ -157,4 +157,7 @@ you know only a portion of a value.
 Search patterns are made from literal text, a wildcard character, or a
 combination of both.
 
-Wildcard queries use the `LIKE` o
+Wildcard queries use the `LIKE` operator. `LIKE` is actually a predicate, but is
+often referred to as an operator.
+
+Wildcards can only
