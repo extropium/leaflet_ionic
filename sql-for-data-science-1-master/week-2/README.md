@@ -160,4 +160,9 @@ combination of both.
 Wildcard queries use the `LIKE` operator. `LIKE` is actually a predicate, but is
 often referred to as an operator.
 
-Wildcards can only
+Wildcards can only be used for string data.
+
+### Using wildcards
+
+- `%text` - matches anything ending with `text`
+- `tex
