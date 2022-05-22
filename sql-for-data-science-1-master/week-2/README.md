@@ -167,4 +167,9 @@ Wildcards can only be used for string data.
 - `%text` - matches anything ending with `text`
 - `text%` - matches anything beginning with `text`
 - `%text%` - matches anything containing `text`
-- `a%b` - matches a
+- `a%b` - matches anything that is preceded by `a` and ends with `b`
+
+Wildcards will not match NULL values.
+
+```sql
+SELECT DISTI
