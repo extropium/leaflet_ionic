@@ -165,4 +165,6 @@ Wildcards can only be used for string data.
 ### Using wildcards
 
 - `%text` - matches anything ending with `text`
-- `tex
+- `text%` - matches anything beginning with `text`
+- `%text%` - matches anything containing `text`
+- `a%b` - matches a
