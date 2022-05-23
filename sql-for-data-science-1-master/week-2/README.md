@@ -179,4 +179,7 @@ WHERE name LIKE '%ville';
 
 ### Underscore wildcard
 
-Many RDMSs support `_` as a wildca
+Many RDMSs support `_` as a wildcard. It functions in the same way that `%` has
+been outlined here.
+
+### Implications of using wildcards
