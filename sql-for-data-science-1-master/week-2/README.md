@@ -172,4 +172,11 @@ Wildcards can only be used for string data.
 Wildcards will not match NULL values.
 
 ```sql
-SELECT DISTI
+SELECT DISTINCT(area)
+FROM cities
+WHERE name LIKE '%ville';
+```
+
+### Underscore wildcard
+
+Many RDMSs support `_` as a wildca
