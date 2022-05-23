@@ -183,3 +183,7 @@ Many RDMSs support `_` as a wildcard. It functions in the same way that `%` has
 been outlined here.
 
 ### Implications of using wildcards
+
+- wildcard queries take longer to run
+- better to use other operators if possible
+- statements wi
