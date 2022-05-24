@@ -188,3 +188,8 @@ been outlined here.
 - better to use other operators if possible
 - statements with wildcards at the end of patterns take longer to run than
     patterns with wildcards at the beginning
+- placement of wildcads is imporant
+
+## Sorting with `ORDER BY`
+
+[video](https://www.coursera.org/lea
