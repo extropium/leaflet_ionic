@@ -194,4 +194,7 @@ been outlined here.
 
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/OIQ7a/sorting-with-order-by)
 
-Using `SELECT` will return data in t
+Using `SELECT` will return data in the same order that it was captured in the
+database.
+
+Furthermore, the order of data can chan
