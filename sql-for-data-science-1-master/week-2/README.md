@@ -186,4 +186,5 @@ been outlined here.
 
 - wildcard queries take longer to run
 - better to use other operators if possible
-- statements wi
+- statements with wildcards at the end of patterns take longer to run than
+    patterns with wildcards at the beginning
