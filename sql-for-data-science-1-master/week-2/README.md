@@ -192,4 +192,6 @@ been outlined here.
 
 ## Sorting with `ORDER BY`
 
-[video](https://www.coursera.org/lea
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/OIQ7a/sorting-with-order-by)
+
+Using `SELECT` will return data in t
