@@ -197,4 +197,10 @@ been outlined here.
 Using `SELECT` will return data in the same order that it was captured in the
 database.
 
-Furthermore, the order of data can chan
+Furthermore, the order of data can change when it is updated or deleted.
+
+Without specifying the order of data, its order cannot be assumed.
+
+`ORDER BY`:
+
+- tak
