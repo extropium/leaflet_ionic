@@ -203,4 +203,6 @@ Without specifying the order of data, its order cannot be assumed.
 
 `ORDER BY`:
 
-- tak
+- takes the name of one or more columns
+- columns are delimited by commas
+- data can be sorted by columns
