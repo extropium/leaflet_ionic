@@ -222,4 +222,11 @@ One can specify the direction to sort data:
 - `DESC` - descending
 - `ASC` - ascending
 
-The direction keyw
+The direction keywords apply only to the column name they precede.
+
+```sql
+...
+ORDER BY DESC name;
+```
+
+### Sorting b
