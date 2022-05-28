@@ -206,4 +206,13 @@ Without specifying the order of data, its order cannot be assumed.
 - takes the name of one or more columns
 - columns are delimited by commas
 - data can be sorted by columns that are not retrieved in the `SELECT` statement
-- must always be the last statement in a `SELECT` statemen
+- must always be the last statement in a `SELECT` statement
+
+```sql
+SELECT *
+FROM my_table
+WHERE [criteria]
+ORDER BY col1, col2;
+```
+
+### Sort directi
