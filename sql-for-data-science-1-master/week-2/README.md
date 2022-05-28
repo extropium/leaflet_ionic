@@ -215,4 +215,11 @@ WHERE [criteria]
 ORDER BY col1, col2;
 ```
 
-### Sort directi
+### Sort direction
+
+One can specify the direction to sort data:
+
+- `DESC` - descending
+- `ASC` - ascending
+
+The direction keyw
