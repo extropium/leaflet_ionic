@@ -242,4 +242,16 @@ Columns numbers are 1-indexed.
 
 ## Math operations
 
-[video](https://www.coursera.org/learn/sql-for-data-sc
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/DYtOe/math-operations)
+
+Available operators:
+
+- `+`
+- `-`
+- `*`
+- `/`
+
+```sql
+SELECT
+  id
+  ,unit_
