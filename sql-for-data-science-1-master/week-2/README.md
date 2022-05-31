@@ -254,4 +254,13 @@ Available operators:
 ```sql
 SELECT
   id
-  ,unit_
+  ,unit_price
+  ,unit_sold
+  ,unit_price * units_sold AS total_sales
+FROM my_table;
+```
+
+```sql
+SELECT
+  id
+  ,unit_pric
