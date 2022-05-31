@@ -235,4 +235,11 @@ Though not readable, and prone to error, one can sort by column number:
 
 ```sql
 ...
-ORDER BY 
+ORDER BY 2, 3;
+```
+
+Columns numbers are 1-indexed.
+
+## Math operations
+
+[video](https://www.coursera.org/learn/sql-for-data-sc
