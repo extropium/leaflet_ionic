@@ -229,4 +229,10 @@ The direction keywords apply only to the column name they precede.
 ORDER BY DESC name;
 ```
 
-### Sorting b
+### Sorting by columns position
+
+Though not readable, and prone to error, one can sort by column number:
+
+```sql
+...
+ORDER BY 
