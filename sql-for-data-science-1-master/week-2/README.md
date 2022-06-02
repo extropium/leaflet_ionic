@@ -272,4 +272,8 @@ FROM my_table;
 
 ## Aggregate Functions
 
-[video](https://www.coursera.org/learn/sql-for-data-science/lecture/O8yes
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/O8yes/aggregate-functions)
+
+Aggregate functios allow one to summarise data.
+
+The aggregate functions available a
