@@ -263,4 +263,11 @@ FROM my_table;
 ```sql
 SELECT
   id
-  ,unit_pric
+  ,unit_price
+  ,units_sold
+  ,unit_weight
+  ,(unit_price * units_sold)/unit_weight AS weight_ratio
+FROM my_table;
+```
+
+## Aggregate Fu
