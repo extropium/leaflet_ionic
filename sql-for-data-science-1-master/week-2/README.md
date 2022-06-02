@@ -270,4 +270,6 @@ SELECT
 FROM my_table;
 ```
 
-## Aggregate Fu
+## Aggregate Functions
+
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/O8yes
