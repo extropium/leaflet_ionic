@@ -276,4 +276,12 @@ FROM my_table;
 
 Aggregate functios allow one to summarise data.
 
-The aggregate functions available a
+The aggregate functions available are:
+
+- `AVG`
+- `COUNT`
+- `MIN`
+- `MAX`
+- `SUM`
+
+`DISTINCT` may be used with some of the aggregate functi
