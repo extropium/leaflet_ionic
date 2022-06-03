@@ -289,4 +289,9 @@ values that are distinct.
 
 Aggregate functions are useful for:
 
-- su
+- summarising data
+- finding the highest and lowest values
+- finding the total number of rows
+- finding averages
+
+Aggregate f
