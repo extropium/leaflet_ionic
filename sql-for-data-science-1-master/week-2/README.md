@@ -294,4 +294,6 @@ Aggregate functions are useful for:
 - finding the total number of rows
 - finding averages
 
-Aggregate f
+Aggregate functions are syntactic sugar for the existing math operators.
+
+### `AVG` function
