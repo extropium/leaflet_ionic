@@ -284,4 +284,9 @@ The aggregate functions available are:
 - `MAX`
 - `SUM`
 
-`DISTINCT` may be used with some of the aggregate functi
+`DISTINCT` may be used with some of the aggregate functions to include only
+values that are distinct.
+
+Aggregate functions are useful for:
+
+- su
