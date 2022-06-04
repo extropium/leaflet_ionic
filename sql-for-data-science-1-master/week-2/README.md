@@ -297,3 +297,10 @@ Aggregate functions are useful for:
 Aggregate functions are syntactic sugar for the existing math operators.
 
 ### `AVG` function
+
+Rows containing NULL values are ignore by the `AVG` function.
+
+```sql
+SELECT
+  AVG(price) AS avg_price
+FROM pr
