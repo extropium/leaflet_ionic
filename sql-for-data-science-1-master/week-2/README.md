@@ -303,4 +303,10 @@ Rows containing NULL values are ignore by the `AVG` function.
 ```sql
 SELECT
   AVG(price) AS avg_price
-FROM pr
+FROM products;
+```
+
+### `COUNT` function
+
+`COUNT` can be used to count rows, including those containing NULL values, or
+indivi
