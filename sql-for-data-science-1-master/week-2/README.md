@@ -309,4 +309,7 @@ FROM products;
 ### `COUNT` function
 
 `COUNT` can be used to count rows, including those containing NULL values, or
-indivi
+individual columns, excluding those containing NULL values.
+
+```sql
+# count all rows, including those with NULL v
