@@ -312,4 +312,11 @@ FROM products;
 individual columns, excluding those containing NULL values.
 
 ```sql
-# count all rows, including those with NULL v
+# count all rows, including those with NULL values
+SELECT COUNT(*) AS customers
+FROM customers;
+```
+
+```sql
+# count customers that have emails
+SELECT COUNT(e
