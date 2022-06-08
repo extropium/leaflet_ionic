@@ -325,4 +325,12 @@ FROM customers;
 
 ### `MAX` and `MIN` functions
 
-NULL values are ignored by both `MAX` 
+NULL values are ignored by both `MAX` and `MIN`.
+
+```sql
+SELECT MAX(price) AS max_price
+FROM products;
+```
+
+```sql
+SELECT MIN(size) AS sm
