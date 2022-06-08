@@ -319,4 +319,10 @@ FROM customers;
 
 ```sql
 # count customers that have emails
-SELECT COUNT(e
+SELECT COUNT(email) AS customers_with_email
+FROM customers;
+```
+
+### `MAX` and `MIN` functions
+
+NULL values are ignored by both `MAX` 
