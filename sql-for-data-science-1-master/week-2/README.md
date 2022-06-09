@@ -333,4 +333,11 @@ FROM products;
 ```
 
 ```sql
-SELECT MIN(size) AS sm
+SELECT MIN(size) AS smallest_size
+FROM shoes;
+```
+
+```sql
+# get a range of shoe sizes
+SELECT
+  MAX(size) AS sh
