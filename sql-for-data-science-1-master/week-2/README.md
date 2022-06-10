@@ -340,4 +340,12 @@ FROM shoes;
 ```sql
 # get a range of shoe sizes
 SELECT
-  MAX(size) AS sh
+  MAX(size) AS shoe_size_upper
+  , MIN(size) as show_size_lower
+FROM shoes;
+```
+
+### `SUM` function
+
+```sql
+# simple query
