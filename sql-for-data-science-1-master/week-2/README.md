@@ -355,4 +355,10 @@ FROM products;
 
 ```sql
 # less simple query
-SELECT SUM(price * units_s
+SELECT SUM(price * units_sold) total_sales
+FROM products;
+```
+
+### `DISTINCT`
+
+If `DISTINCT` is not defined, `ALL` is 
