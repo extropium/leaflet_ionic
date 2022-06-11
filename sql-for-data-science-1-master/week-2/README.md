@@ -349,3 +349,10 @@ FROM shoes;
 
 ```sql
 # simple query
+SELECT SUM(price) as total_price
+FROM products;
+```
+
+```sql
+# less simple query
+SELECT SUM(price * units_s
