@@ -369,4 +369,10 @@ If `DISTINCT` is not defined, `ALL` is assumed.
 a single value.
 
 ```sql
-SELECT COUNT(DISTINCT price
+SELECT COUNT(DISTINCT price) AS distinct_prices
+FROM products;
+```
+
+## Grouping Data with SQL
+
+[video](https://www.coursera.org/le
