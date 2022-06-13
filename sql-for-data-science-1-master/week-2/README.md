@@ -361,4 +361,8 @@ FROM products;
 
 ### `DISTINCT`
 
-If `DISTINCT` is not defined, `ALL` is 
+If `DISTINCT` is not defined, `ALL` is assumed.
+
+`DISTINCT` can't be used in conjunction with `COUNT(*)`.
+
+`DISTINCt` doesn't make sense to use wi
