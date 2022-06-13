@@ -365,4 +365,8 @@ If `DISTINCT` is not defined, `ALL` is assumed.
 
 `DISTINCT` can't be used in conjunction with `COUNT(*)`.
 
-`DISTINCt` doesn't make sense to use wi
+`DISTINCt` doesn't make sense to use with `MIN` or `MAX` since they only return
+a single value.
+
+```sql
+SELECT COUNT(DISTINCT price
