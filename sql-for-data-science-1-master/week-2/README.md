@@ -384,4 +384,7 @@ Data is grouped using two statements:
 - `GROUP BY`
 - `HAVING`
 
-Using these statements we can aggregate dat
+Using these statements we can aggregate data by a particular value, e.g.
+grouping shoes by shoe size.
+
+When simply aggregating total number of
