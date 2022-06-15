@@ -379,4 +379,9 @@ FROM products;
 
 Grouping data allows one to summarise subsets of data.
 
-Data is g
+Data is grouped using two statements:
+
+- `GROUP BY`
+- `HAVING`
+
+Using these statements we can aggregate dat
