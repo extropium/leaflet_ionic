@@ -375,4 +375,8 @@ FROM products;
 
 ## Grouping Data with SQL
 
-[video](https://www.coursera.org/le
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/LWL8X/grouping-data-with-sql)
+
+Grouping data allows one to summarise subsets of data.
+
+Data is g
