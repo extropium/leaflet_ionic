@@ -392,4 +392,9 @@ didn't need to do anything specific to get a result.
 
 If, however, another column is specified in the `SELECT` statement, we'd need to
 indicate how we'd like the number of customers to be counted. This is where
-`GROUP BY` is u
+`GROUP BY` is useful:
+
+```sql
+# this will error - we need to specify _how_ to count customer ids when queried
+with region
+SEL
