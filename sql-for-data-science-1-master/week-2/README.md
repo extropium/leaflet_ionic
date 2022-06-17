@@ -391,3 +391,5 @@ When simply aggregating total number of customers in the aggregating module, we
 didn't need to do anything specific to get a result.
 
 If, however, another column is specified in the `SELECT` statement, we'd need to
+indicate how we'd like the number of customers to be counted. This is where
+`GROUP BY` is u
