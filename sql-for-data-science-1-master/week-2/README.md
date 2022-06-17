@@ -388,4 +388,6 @@ Using these statements we can aggregate data by a particular value, e.g.
 grouping shoes by shoe size.
 
 When simply aggregating total number of customers in the aggregating module, we
-didn't need to do anything speci
+didn't need to do anything specific to get a result.
+
+If, however, another column is specified in the `SELECT` statement, we'd need to
