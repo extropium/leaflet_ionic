@@ -402,4 +402,8 @@ SELECT
   ,COUNT(customer_id) AS total_customers
 FROM customers;
 
-# so we indicate that we want to count customers
+# so we indicate that we want to count customers grouped by region
+SELECT
+  region
+  ,COUNT(customer_id) AS total_customers
+FROM customers
