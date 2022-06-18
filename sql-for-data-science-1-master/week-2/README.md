@@ -407,3 +407,10 @@ SELECT
   region
   ,COUNT(customer_id) AS total_customers
 FROM customers
+GROUP BY region;
+```
+
+### Using `GROUP BY`
+
+- can contain multiple columns, delimited by commas
+- every column 
