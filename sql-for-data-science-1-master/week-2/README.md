@@ -397,4 +397,9 @@ indicate how we'd like the number of customers to be counted. This is where
 ```sql
 # this will error - we need to specify _how_ to count customer ids when queried
 with region
-SEL
+SELECT
+  region
+  ,COUNT(customer_id) AS total_customers
+FROM customers;
+
+# so we indicate that we want to count customers
