@@ -414,4 +414,7 @@ GROUP BY region;
 
 - can contain multiple columns, delimited by commas
 - every column in the `SELECT` statement must be present in a `GROUP BY` clause,
-    with the exception of the aggreg
+    with the exception of the aggregated values
+- NULLs can be grouped together if your `GROUP BY` column contains NULLs
+
+### `WHER
