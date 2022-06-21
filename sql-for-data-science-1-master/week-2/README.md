@@ -417,4 +417,7 @@ GROUP BY region;
     with the exception of the aggregated values
 - NULLs can be grouped together if your `GROUP BY` column contains NULLs
 
-### `WHER
+### `WHERE`, `HAVING`, and `GROUP BY`
+
+- `WHERE` filters on rows, not groups
+- `WHERE` then needs to be defined before `
