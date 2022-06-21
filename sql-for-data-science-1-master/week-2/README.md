@@ -413,4 +413,5 @@ GROUP BY region;
 ### Using `GROUP BY`
 
 - can contain multiple columns, delimited by commas
-- every column 
+- every column in the `SELECT` statement must be present in a `GROUP BY` clause,
+    with the exception of the aggreg
