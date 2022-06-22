@@ -420,4 +420,6 @@ GROUP BY region;
 ### `WHERE`, `HAVING`, and `GROUP BY`
 
 - `WHERE` filters on rows, not groups
-- `WHERE` then needs to be defined before `
+- `WHERE` then needs to be defined before `GROUP BY`
+- rows eliminated by a `WHERE` clause will not be included in a group
+- `HAVING` is the eq
