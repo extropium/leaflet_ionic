@@ -426,4 +426,6 @@ GROUP BY region;
 - `HAVING` must come after `ORDER BY`
 
 ```sql
-# count the number of or
+# count the number of orders, by customer, where there are 2 or more orders for
+# each customer
+SEL
