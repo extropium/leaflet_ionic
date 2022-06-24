@@ -428,4 +428,12 @@ GROUP BY region;
 ```sql
 # count the number of orders, by customer, where there are 2 or more orders for
 # each customer
-SEL
+SELECT
+  customer_id
+  .COUNT(*) AS total_orders
+FROM orders
+GROUP BY customer_id
+HAVING COUNT(*) >= 2;
+```
+
+### `GROUP BY` a
