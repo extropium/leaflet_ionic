@@ -436,4 +436,7 @@ GROUP BY customer_id
 HAVING COUNT(*) >= 2;
 ```
 
-### `GROUP BY` a
+### `GROUP BY` and `ORDER BY`
+
+As with other queries, `GROUP BY` will not sort results. It's good practice to
+use `ORDE
