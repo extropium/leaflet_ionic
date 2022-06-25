@@ -439,4 +439,9 @@ HAVING COUNT(*) >= 2;
 ### `GROUP BY` and `ORDER BY`
 
 As with other queries, `GROUP BY` will not sort results. It's good practice to
-use `ORDE
+use `ORDER BY` with `GROUP BY` to organise the results of queries.
+
+```sql
+SELECT
+  supplier_id
+  ,COU
