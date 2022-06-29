@@ -444,4 +444,9 @@ use `ORDER BY` with `GROUP BY` to organise the results of queries.
 ```sql
 SELECT
   supplier_id
-  ,COU
+  ,COUNT(*) AS num_products
+FROM products
+WHERE price >= 4
+GROUP BY supplier_id
+HAVING COUNT(*) >= 2
+ORDER BY
