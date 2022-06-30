@@ -458,4 +458,6 @@ ORDER BY name ASC;
 
 Filtering is useful because:
 
-- you'
+- you're narrowing down your results
+- it increases query and application performance
+- makes understanding da
