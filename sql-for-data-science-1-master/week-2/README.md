@@ -449,4 +449,13 @@ FROM products
 WHERE price >= 4
 GROUP BY supplier_id
 HAVING COUNT(*) >= 2
-ORDER BY
+ORDER BY name ASC;
+```
+
+## Putting it all together
+
+[video](Putting it All Together)
+
+Filtering is useful because:
+
+- you'
