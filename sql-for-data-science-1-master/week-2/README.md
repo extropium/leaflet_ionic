@@ -460,4 +460,9 @@ Filtering is useful because:
 
 - you're narrowing down your results
 - it increases query and application performance
-- makes understanding da
+- makes understanding data easier by:
+    - finding specific values
+    - finding a range of values
+    - finding blank values
+
+O
