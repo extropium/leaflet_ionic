@@ -465,4 +465,9 @@ Filtering is useful because:
     - finding a range of values
     - finding blank values
 
-O
+Order of key SQL clauses:
+
+```sql
+# always required
+SELECT [columns]
+# required if selecting table from a tabl
