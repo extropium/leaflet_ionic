@@ -470,4 +470,8 @@ Order of key SQL clauses:
 ```sql
 # always required
 SELECT [columns]
-# required if selecting table from a tabl
+# required if selecting table from a table
+FROM [table]
+WHERE [criteria]
+# required if calculating aggregates by a group
+GROUP BY [columns]
