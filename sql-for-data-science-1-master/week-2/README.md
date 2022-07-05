@@ -475,3 +475,6 @@ FROM [table]
 WHERE [criteria]
 # required if calculating aggregates by a group
 GROUP BY [columns]
+HAVING [criteria]
+ORDER BY [columns [ASC|DESC]];
+```
