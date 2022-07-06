@@ -8,4 +8,6 @@
   - [Joins](#joins)
 - [Using subqueries](#using-subqueries)
   - [What are subqueries?](#what-are-subqueries)
-  - [Problem: Get regions for customers who have ordered freight >= 100](#problem-get-regions-for-custom
+  - [Problem: Get regions for customers who have ordered freight >= 100](#problem-get-regions-for-customers-who-have-ordered-freight--100)
+    - [Combined with a subquery](#combined-with-a-subquery)
+  - [Working with sub
