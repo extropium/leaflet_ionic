@@ -5,4 +5,7 @@
 **Table of Contents**
 
 - [Module introduction](#module-introduction)
-  - [J
+  - [Joins](#joins)
+- [Using subqueries](#using-subqueries)
+  - [What are subqueries?](#what-are-subqueries)
+ 
