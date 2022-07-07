@@ -12,4 +12,6 @@
     - [Combined with a subquery](#combined-with-a-subquery)
   - [Working with subquery statements](#working-with-subquery-statements)
 - [Subquery Best Practices and Considerations](#subquery-best-practices-and-considerations)
-  - [Subquery in a Subquery](#subque
+  - [Subquery in a Subquery](#subquery-in-a-subquery)
+  - [Subqueries for calculations](#subqueries-for-calculations)
+  - [The power of subquer
