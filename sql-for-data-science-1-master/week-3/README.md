@@ -19,4 +19,5 @@
   - [Benefits of breaking data into tables](#benefits-of-breaking-data-into-tables)
   - [Joins](#joins-1)
 - [Cartesian (Cross) Joins](#cartesian-cross-joins)
-  - [Cartesian / C
+  - [Cartesian / Cross Join Example](#cartesian--cross-join-example)
+  - [Different ways to create cartesian joi
