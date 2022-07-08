@@ -16,4 +16,7 @@
   - [Subqueries for calculations](#subqueries-for-calculations)
   - [The power of subqueries](#the-power-of-subqueries)
 - [Joining Tables: An Introduction](#joining-tables-an-introduction)
-  - [Benefits of breaking data into tables](#benefits-of-breaking-data-into-tabl
+  - [Benefits of breaking data into tables](#benefits-of-breaking-data-into-tables)
+  - [Joins](#joins-1)
+- [Cartesian (Cross) Joins](#cartesian-cross-joins)
+  - [Cartesian / C
