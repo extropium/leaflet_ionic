@@ -15,4 +15,5 @@
   - [Subquery in a Subquery](#subquery-in-a-subquery)
   - [Subqueries for calculations](#subqueries-for-calculations)
   - [The power of subqueries](#the-power-of-subqueries)
-- [Joining Tables: An Introduction](#joining-tabl
+- [Joining Tables: An Introduction](#joining-tables-an-introduction)
+  - [Benefits of breaking data into tables](#benefits-of-breaking-data-into-tabl
