@@ -25,4 +25,8 @@
 - [Inner Joins](#inner-joins)
   - [Qualifying and aliasing](#qualifying-and-aliasing)
   - [Best practices](#best-practices)
-- [Aliases a
+- [Aliases and Self Joins](#aliases-and-self-joins)
+  - [Aliases](#aliases)
+    - [Example](#example)
+  - [Self joins](#self-joins)
+-
