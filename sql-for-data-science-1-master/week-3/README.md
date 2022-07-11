@@ -20,4 +20,7 @@
   - [Joins](#joins-1)
 - [Cartesian (Cross) Joins](#cartesian-cross-joins)
   - [Cartesian / Cross Join Example](#cartesian--cross-join-example)
-  - [Different ways to create cartesian joi
+  - [Different ways to create cartesian joins](#different-ways-to-create-cartesian-joins)
+  - [Takeaways](#takeaways)
+- [Inner Joins](#inner-joins)
+  - [Qu
