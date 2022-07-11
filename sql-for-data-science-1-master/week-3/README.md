@@ -23,4 +23,6 @@
   - [Different ways to create cartesian joins](#different-ways-to-create-cartesian-joins)
   - [Takeaways](#takeaways)
 - [Inner Joins](#inner-joins)
-  - [Qu
+  - [Qualifying and aliasing](#qualifying-and-aliasing)
+  - [Best practices](#best-practices)
+- [Aliases a
