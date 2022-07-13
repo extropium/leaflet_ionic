@@ -34,4 +34,7 @@
   - [Right join](#right-join)
   - [Full outer join](#full-outer-join)
 - [Unions](#unions)
-  - [Uni
+  - [Union syntax](#union-syntax)
+- [Summary](#summary)
+  - [Best practices using joins](#best-practices-using-joins)
+  - [Slowly do](
