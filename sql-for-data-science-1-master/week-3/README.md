@@ -29,4 +29,5 @@
   - [Aliases](#aliases)
     - [Example](#example)
   - [Self joins](#self-joins)
--
+- [Advanced Joins: Left, Right, and Full Outer Joins](#advanced-joins-left-right-and-full-outer-joins)
+  - [Left 
