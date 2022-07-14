@@ -37,4 +37,6 @@
   - [Union syntax](#union-syntax)
 - [Summary](#summary)
   - [Best practices using joins](#best-practices-using-joins)
-  - [Slowly do](
+  - [Slowly do](#slowly-do)
+  - [Joins and database performance](#joins-and-database-performance)
+  - [Join 
