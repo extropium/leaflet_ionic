@@ -45,4 +45,10 @@
 
 ## Module introduction
 
-[video](https://www.coursera.org/learn/sql-for-data-science/lecture/N
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/NDsRj/module-introduction)
+
+Subqueries and joins are used to combine data from multiple tables.
+
+### Joins
+
+W
