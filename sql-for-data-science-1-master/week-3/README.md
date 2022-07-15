@@ -39,4 +39,6 @@
   - [Best practices using joins](#best-practices-using-joins)
   - [Slowly do](#slowly-do)
   - [Joins and database performance](#joins-and-database-performance)
-  - [Join 
+  - [Join syntax](#join-syntax)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto up
