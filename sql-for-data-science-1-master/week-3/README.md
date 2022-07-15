@@ -41,4 +41,8 @@
   - [Joins and database performance](#joins-and-database-performance)
   - [Join syntax](#join-syntax)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto up
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Module introduction
+
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/N
