@@ -59,4 +59,9 @@ We'll learn about different types of joins:
 - full outer joins
 - self joins
 
-We'll also learn how to make queries cleaner and more efficient using ali
+We'll also learn how to make queries cleaner and more efficient using aliases
+and pre-qualifiers.
+
+## Using subqueries
+
+[video](https://www.coursera.org/learn/sql-for-data-sc
