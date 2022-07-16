@@ -51,4 +51,8 @@ Subqueries and joins are used to combine data from multiple tables.
 
 ### Joins
 
-W
+We'll learn about different types of joins:
+
+- cartesian joins
+- inner joins
+- left and ri
