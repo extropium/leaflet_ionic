@@ -55,4 +55,8 @@ We'll learn about different types of joins:
 
 - cartesian joins
 - inner joins
-- left and ri
+- left and right joins
+- full outer joins
+- self joins
+
+We'll also learn how to make queries cleaner and more efficient using ali
