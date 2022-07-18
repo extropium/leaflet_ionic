@@ -64,4 +64,7 @@ and pre-qualifiers.
 
 ## Using subqueries
 
-[video](https://www.coursera.org/learn/sql-for-data-sc
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/FChaS/using-subqueries)
+
+Using one table is useful, but a lot of value comes from using data from
+multip
