@@ -73,3 +73,6 @@ One of the ways to combine data from multiple tables is by using subqueries.
 
 ### What are subqueries?
 
+Subqueries are queries embedded in other queries.
+
+Relational databases store data in multiple tables. Subqueries me
