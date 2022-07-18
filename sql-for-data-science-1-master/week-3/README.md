@@ -67,4 +67,9 @@ and pre-qualifiers.
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/FChaS/using-subqueries)
 
 Using one table is useful, but a lot of value comes from using data from
-multip
+multiple tables.
+
+One of the ways to combine data from multiple tables is by using subqueries.
+
+### What are subqueries?
+
