@@ -82,4 +82,6 @@ Subqueries are useful for adding additional filtering criteria.
 
 ### Problem: Get regions for customers who have ordered freight >= 100
 
-With our
+With our currently limited knowledge of single table queries we would have to:
+
+1. retrieve custom
