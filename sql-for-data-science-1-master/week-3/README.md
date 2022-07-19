@@ -75,4 +75,7 @@ One of the ways to combine data from multiple tables is by using subqueries.
 
 Subqueries are queries embedded in other queries.
 
-Relational databases store data in multiple tables. Subqueries me
+Relational databases store data in multiple tables. Subqueries merge data from
+multiple sources together.
+
+Subqueries are useful for adding additional fil
