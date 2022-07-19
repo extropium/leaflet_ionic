@@ -78,4 +78,8 @@ Subqueries are queries embedded in other queries.
 Relational databases store data in multiple tables. Subqueries merge data from
 multiple sources together.
 
-Subqueries are useful for adding additional fil
+Subqueries are useful for adding additional filtering criteria.
+
+### Problem: Get regions for customers who have ordered freight >= 100
+
+With our
