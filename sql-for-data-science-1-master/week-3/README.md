@@ -84,4 +84,6 @@ Subqueries are useful for adding additional filtering criteria.
 
 With our currently limited knowledge of single table queries we would have to:
 
-1. retrieve custom
+1. retrieve customer IDs for orders with freight over 100 from the `orders`
+   table
+2. retrieve customer details fr
