@@ -86,4 +86,11 @@ With our currently limited knowledge of single table queries we would have to:
 
 1. retrieve customer IDs for orders with freight over 100 from the `orders`
    table
-2. retrieve customer details fr
+2. retrieve customer details from the `customers` table
+3. combine the two queries
+
+e.g.
+
+```sql
+-- get customer ids
+SELECT customer_
