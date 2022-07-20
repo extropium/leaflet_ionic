@@ -93,4 +93,9 @@ e.g.
 
 ```sql
 -- get customer ids
-SELECT customer_
+SELECT customer_id
+FROM orders
+WHERE freight >= 100;
+
+-- get regions
+SELECT customer_id, company_na
