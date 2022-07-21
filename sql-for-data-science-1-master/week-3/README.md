@@ -111,4 +111,10 @@ FROM customers
 WHERE customer_id IN (
   SELECT customer_id
   FROM orders
- 
+  WHERE freight >= 100
+);
+```
+
+### Working with subquery statements
+
+With subqueries, SQL will be performin
