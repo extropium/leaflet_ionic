@@ -98,4 +98,12 @@ FROM orders
 WHERE freight >= 100;
 
 -- get regions
-SELECT customer_id, company_na
+SELECT customer_id, company_name, region
+FROM customers
+WHERE customer_id in (1,2,3,...);
+```
+
+#### Combined with a subquery
+
+```sql
+SELECT custom
