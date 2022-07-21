@@ -106,4 +106,9 @@ WHERE customer_id in (1,2,3,...);
 #### Combined with a subquery
 
 ```sql
-SELECT custom
+SELECT customer_id, comppany_name, region
+FROM customers
+WHERE customer_id IN (
+  SELECT customer_id
+  FROM orders
+ 
