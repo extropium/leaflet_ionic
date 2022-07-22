@@ -120,4 +120,9 @@ WHERE customer_id IN (
 With subqueries, SQL will be performing two operations. The subquery is always
 performed first.
 
-When troubleshooting, always evaluate the innermost query 
+When troubleshooting, always evaluate the innermost query first, as that is what
+SQL will be evaluating first.
+
+## Subquery Best Practices and Considerations
+
+[vid
