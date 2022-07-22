@@ -125,4 +125,7 @@ SQL will be evaluating first.
 
 ## Subquery Best Practices and Considerations
 
-[video](https://www.coursera.org/learn/sql-for-data-science/lecture/3ubfD/subquery-best-practices-and-con
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/3ubfD/subquery-best-practices-and-considerations)
+
+- there is no limit to the depth subqueries one can use
+- the more subqueries one uses
