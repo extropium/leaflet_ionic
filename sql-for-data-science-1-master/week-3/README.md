@@ -117,4 +117,7 @@ WHERE customer_id IN (
 
 ### Working with subquery statements
 
-With subqueries, SQL will be performin
+With subqueries, SQL will be performing two operations. The subquery is always
+performed first.
+
+When troubleshooting, always evaluate the innermost query 
