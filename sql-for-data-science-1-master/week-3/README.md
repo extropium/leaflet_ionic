@@ -125,4 +125,4 @@ SQL will be evaluating first.
 
 ## Subquery Best Practices and Considerations
 
-[vid
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/3ubfD/subquery-best-practices-and-con
