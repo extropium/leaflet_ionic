@@ -134,4 +134,8 @@ SQL will be evaluating first.
 ### Subquery in a Subquery
 
 1. get the order numbers for toothbrushes
-2. get the customer ids for those orde
+2. get the customer ids for those orders
+3. get the customer information for those orders
+
+```sql
+SELECT customer_name, customer_contac
