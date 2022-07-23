@@ -128,4 +128,5 @@ SQL will be evaluating first.
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/3ubfD/subquery-best-practices-and-considerations)
 
 - there is no limit to the depth subqueries one can use
-- the more subqueries one uses
+- the more subqueries one uses, the more performance is impacted
+- subquery `SELECT`s can only retrieve data for a single column at a t
