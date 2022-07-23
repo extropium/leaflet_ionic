@@ -138,4 +138,9 @@ SQL will be evaluating first.
 3. get the customer information for those orders
 
 ```sql
-SELECT customer_name, customer_contac
+SELECT customer_name, customer_contact
+FROM customers
+WHERE customer_id IN (
+  SELECT customer_id
+  FROM orders
+  WHERE ord
