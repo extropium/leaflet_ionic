@@ -129,4 +129,9 @@ SQL will be evaluating first.
 
 - there is no limit to the depth subqueries one can use
 - the more subqueries one uses, the more performance is impacted
-- subquery `SELECT`s can only retrieve data for a single column at a t
+- subquery `SELECT`s can only retrieve data for a single column at a time
+
+### Subquery in a Subquery
+
+1. get the order numbers for toothbrushes
+2. get the customer ids for those orde
