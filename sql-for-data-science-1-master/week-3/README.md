@@ -143,4 +143,7 @@ FROM customers
 WHERE customer_id IN (
   SELECT customer_id
   FROM orders
-  WHERE ord
+  WHERE order_number IN (
+    SELECT order_number
+    FROM order_items
+    WHERE product_name = 'Toothbrush
