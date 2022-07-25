@@ -146,4 +146,9 @@ WHERE customer_id IN (
   WHERE order_number IN (
     SELECT order_number
     FROM order_items
-    WHERE product_name = 'Toothbrush
+    WHERE product_name = 'Toothbrush'
+  )
+)
+```
+
+[poorsql.com](http://poorsql.com) can be used to better format poorly fo
