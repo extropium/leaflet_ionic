@@ -168,4 +168,8 @@ SELECT
     WHERE Orders.customer_id = Customers.customer_id
   ) AS orders
 FROM Customers
-ORDER BY customer_nam
+ORDER BY customer_name
+```
+
+Instead of using a subquery in a `WHERE` statement, we can use it inside a
+`SELECT
