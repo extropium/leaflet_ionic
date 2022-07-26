@@ -165,4 +165,7 @@ SELECT
   (
     SELECT COUNT (*) AS total_orders
     FROM Orders
-    WHERE Ord
+    WHERE Orders.customer_id = Customers.customer_id
+  ) AS orders
+FROM Customers
+ORDER BY customer_nam
