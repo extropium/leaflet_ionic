@@ -158,4 +158,11 @@ SQL.
 
 Get the total number of orders for each customer:
 
-`
+```sql
+SELECT
+  customer_name
+  ,customer_state
+  (
+    SELECT COUNT (*) AS total_orders
+    FROM Orders
+    WHERE Ord
