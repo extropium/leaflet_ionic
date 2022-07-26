@@ -151,4 +151,11 @@ WHERE customer_id IN (
 )
 ```
 
-[poorsql.com](http://poorsql.com) can be used to better format poorly fo
+[poorsql.com](http://poorsql.com) can be used to better format poorly formatted
+SQL.
+
+### Subqueries for calculations
+
+Get the total number of orders for each customer:
+
+`
