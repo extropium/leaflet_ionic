@@ -172,4 +172,8 @@ ORDER BY customer_name
 ```
 
 Instead of using a subquery in a `WHERE` statement, we can use it inside a
-`SELECT
+`SELECT` statement.
+
+### The power of subqueries
+
+Although powerful, subqueries can have a performance 
