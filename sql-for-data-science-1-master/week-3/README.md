@@ -188,4 +188,8 @@ more performant to use than subqueries.
 - easier manipulation
 - greater scalability
 - logically models a process
-- t
+- tables are related through commong values (primary and foreign keys)
+
+### Joins
+
+Joins associate correct recor
