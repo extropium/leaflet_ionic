@@ -182,4 +182,10 @@ more performant to use than subqueries.
 
 ## Joining Tables: An Introduction
 
-### Benefits of breaking dat
+### Benefits of breaking data into tables
+
+- efficient storage
+- easier manipulation
+- greater scalability
+- logically models a process
+- t
