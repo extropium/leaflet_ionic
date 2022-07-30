@@ -178,4 +178,8 @@ Instead of using a subquery in a `WHERE` statement, we can use it inside a
 
 Although powerful, subqueries can have a performance impact. It' important to
 evaluate other options for selecting data from multiple tables. Joins are often
-more 
+more performant to use than subqueries.
+
+## Joining Tables: An Introduction
+
+### Benefits of breaking dat
