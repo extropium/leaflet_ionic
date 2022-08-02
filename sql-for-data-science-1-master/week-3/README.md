@@ -192,4 +192,8 @@ more performant to use than subqueries.
 
 ### Joins
 
-Joins associate correct recor
+Joins associate correct records from each table on the fly.
+
+They allow for data retrieval from multiple tables in one query.
+
+Joins a
