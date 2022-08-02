@@ -196,4 +196,8 @@ Joins associate correct records from each table on the fly.
 
 They allow for data retrieval from multiple tables in one query.
 
-Joins a
+Joins are not _physical_ - they persist for the duration of the query execution.
+
+## Cartesian (Cross) Joins
+
+Like a cartesian
