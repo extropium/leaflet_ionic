@@ -200,4 +200,7 @@ Joins are not _physical_ - they persist for the duration of the query execution.
 
 ## Cartesian (Cross) Joins
 
-Like a cartesian
+Like a cartesian product, each row in the first table joins with all the rows of
+another table.
+
+<img alt="cross / carte
