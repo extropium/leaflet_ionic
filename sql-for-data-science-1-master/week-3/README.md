@@ -205,4 +205,7 @@ another table.
 
 <img alt="cross / cartesian join" src="../assets/week-3/cartesian-join.jpg" width="50%" />
 
-If a table 1 has 10 rows, and table 2 h
+If a table 1 has 10 rows, and table 2 has 10 rows, then the result will have 100
+rows. The result is always a new table of `NxM` rows.
+
+As
