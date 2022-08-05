@@ -208,4 +208,5 @@ another table.
 If a table 1 has 10 rows, and table 2 has 10 rows, then the result will have 100
 rows. The result is always a new table of `NxM` rows.
 
-As
+As a result of the size of the new table, and computational cost, they are
+infrequen
