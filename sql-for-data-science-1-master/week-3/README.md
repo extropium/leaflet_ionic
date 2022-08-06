@@ -209,4 +209,5 @@ If a table 1 has 10 rows, and table 2 has 10 rows, then the result will have 100
 rows. The result is always a new table of `NxM` rows.
 
 As a result of the size of the new table, and computational cost, they are
-infrequen
+infrequently used, but they are still valuable in certain situations. A deck of
+cards can be created by creating a 
