@@ -212,3 +212,12 @@ As a result of the size of the new table, and computational cost, they are
 infrequently used, but they are still valuable in certain situations. A deck of
 cards can be created by creating a cartesian product of all face card types, and
 the possible values each card can have.
+
+### Cartesian / Cross Join Example
+
+```sql
+SELECT
+  product_name
+  ,unit_price
+  ,company_name
+FRO
