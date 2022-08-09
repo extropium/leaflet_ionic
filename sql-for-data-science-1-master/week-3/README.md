@@ -220,4 +220,9 @@ SELECT
   product_name
   ,unit_price
   ,company_name
-FRO
+FROM suppliers CROSS JOIN products;
+```
+
+### Different ways to create cartesian joins
+
+If `LEFT JOIN` and `
