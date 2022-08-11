@@ -225,4 +225,7 @@ FROM suppliers CROSS JOIN products;
 
 ### Different ways to create cartesian joins
 
-If `LEFT JOIN` and `
+If `LEFT JOIN` and `INNER JOIN` are used with `ON` or `USING`, SQLite will join
+tables using a cartesian join strategy:
+
+`
