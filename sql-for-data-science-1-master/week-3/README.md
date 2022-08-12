@@ -241,4 +241,13 @@ FROM A
 CROSS JOIN B;
 
 SELECT *
-FROM A, 
+FROM A, B;
+```
+
+### Takeaways
+
+Cross / cartesian joins:
+
+- are not frequently used
+- are computationally taxing
+- will 
