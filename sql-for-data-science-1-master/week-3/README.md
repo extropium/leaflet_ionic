@@ -228,4 +228,17 @@ FROM suppliers CROSS JOIN products;
 If `LEFT JOIN` and `INNER JOIN` are used with `ON` or `USING`, SQLite will join
 tables using a cartesian join strategy:
 
-`
+```sql
+SELECT *
+FROM A JOIN B;
+
+SELECT *
+FROM A
+INNER JOIN B;
+
+SELECT *
+FROM A
+CROSS JOIN B;
+
+SELECT *
+FROM A, 
