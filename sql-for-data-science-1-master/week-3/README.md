@@ -254,4 +254,6 @@ Cross / cartesian joins:
 
 ## Inner Joins
 
-[video](https://www.courser
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/Dk0bv/inner-joins)
+
+Inner joins are used to select records that have
