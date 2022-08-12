@@ -250,4 +250,8 @@ Cross / cartesian joins:
 
 - are not frequently used
 - are computationally taxing
-- will 
+- will return columns with incorrect or incomplete data
+
+## Inner Joins
+
+[video](https://www.courser
