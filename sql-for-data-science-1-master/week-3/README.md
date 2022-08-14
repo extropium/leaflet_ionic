@@ -257,4 +257,8 @@ Cross / cartesian joins:
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/Dk0bv/inner-joins)
 
 Inner joins are used to select records that have the same value in multiple tables.
-An inner join is an intersection of two tables - records that are commo
+An inner join is an intersection of two tables - records that are common as a
+result of columns with matching values from each table.
+
+This is where keys become important.
+
