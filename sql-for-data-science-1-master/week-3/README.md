@@ -262,3 +262,7 @@ result of columns with matching values from each table.
 
 This is where keys become important.
 
+```sql
+-- get company_name (from Suppliers table), product_name, and unit_price
+SELECT
+  -- qualify company_name so th
