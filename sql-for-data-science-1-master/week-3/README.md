@@ -265,4 +265,7 @@ This is where keys become important.
 ```sql
 -- get company_name (from Suppliers table), product_name, and unit_price
 SELECT
-  -- qualify company_name so th
+  -- qualify company_name so that we know it's coming from Suppliers
+  Suppliers.company_name
+  ,product_name
+  ,unit_price
