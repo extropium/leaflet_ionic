@@ -276,4 +276,7 @@ FROM Suppliers INNER JOIN Products ON Suppliers.supplier_id = Products.supplier_
 
 The use of `[table_name].[columne_name]` is known as _qualifying_. This is
 similar to qualified imports in Haskell. Qualifying makes it explicit which
-table we are refer
+table we are referring to when referencing a specific column.
+
+- `INNER JOIN` is used as part of the `FROM` statement
+- we use 
