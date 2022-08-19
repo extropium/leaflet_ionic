@@ -271,4 +271,7 @@ SELECT
   ,unit_price
 -- from the Suppliers table
 -- where the suppliers have products in the products table
-FROM Suppliers INNER JOIN P
+FROM Suppliers INNER JOIN Products ON Suppliers.supplier_id = Products.supplier_id;
+```
+
+The use of `[table_name].[columne_name]` is known 
