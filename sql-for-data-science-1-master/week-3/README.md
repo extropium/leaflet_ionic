@@ -274,4 +274,6 @@ SELECT
 FROM Suppliers INNER JOIN Products ON Suppliers.supplier_id = Products.supplier_id;
 ```
 
-The use of `[table_name].[columne_name]` is known 
+The use of `[table_name].[columne_name]` is known as _qualifying_. This is
+similar to qualified imports in Haskell. Qualifying makes it explicit which
+table we are refer
