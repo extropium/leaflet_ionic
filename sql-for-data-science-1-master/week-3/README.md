@@ -280,4 +280,6 @@ table we are referring to when referencing a specific column.
 
 - `INNER JOIN` is used as part of the `FROM` statement
 - we use `ON` as a condition on which to match values in both tables
-- without `ON` we'd simply 
+- without `ON` we'd simply have a cartesian join
+- there is no limit to the number of tables one can join
+- the more joins, the higher the impact 
