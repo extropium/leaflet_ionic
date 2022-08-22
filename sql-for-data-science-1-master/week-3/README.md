@@ -282,4 +282,6 @@ table we are referring to when referencing a specific column.
 - we use `ON` as a condition on which to match values in both tables
 - without `ON` we'd simply have a cartesian join
 - there is no limit to the number of tables one can join
-- the more joins, the higher the impact 
+- the more joins, the higher the impact on performance
+- all the tables should first be listed, and only then should conditions be
+ 
