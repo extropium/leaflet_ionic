@@ -288,4 +288,6 @@ table we are referring to when referencing a specific column.
 
 ### Qualifying and aliasing
 
-To make it clear which tables and columns we're working with, we c
+To make it clear which tables and columns we're working with, we can use
+qualified column names, and alias our tables so that we can eliminate some
+typing when writing queries:
