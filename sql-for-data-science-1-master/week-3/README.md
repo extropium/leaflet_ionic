@@ -284,4 +284,8 @@ table we are referring to when referencing a specific column.
 - there is no limit to the number of tables one can join
 - the more joins, the higher the impact on performance
 - all the tables should first be listed, and only then should conditions be
- 
+    defined
+
+### Qualifying and aliasing
+
+To make it clear which tables and columns we're working with, we c
