@@ -296,4 +296,6 @@ typing when writing queries:
 SELECT
   -- retrieve order id from Orders, aliased to o
   o.order_id
-  -- retrieve company name fr
+  -- retrieve company name from Customers, aliased to c
+  ,c.company_name
+  -- retrieve emplyee last name from Emplyees, aliased to e
