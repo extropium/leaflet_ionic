@@ -291,3 +291,9 @@ table we are referring to when referencing a specific column.
 To make it clear which tables and columns we're working with, we can use
 qualified column names, and alias our tables so that we can eliminate some
 typing when writing queries:
+
+```sql
+SELECT
+  -- retrieve order id from Orders, aliased to o
+  o.order_id
+  -- retrieve company name fr
