@@ -302,4 +302,6 @@ SELECT
   ,e.last_name
 FROM (
   -- find the customers that have orders, aliasing Customers and Orders
-  Orders o INNER JOIN C
+  Orders o INNER JOIN Customers c ON o.customer_id = c.customer_id
+  -- find the employees that are associated with the found orders
+) INNER JOIN
