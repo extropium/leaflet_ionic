@@ -299,3 +299,7 @@ SELECT
   -- retrieve company name from Customers, aliased to c
   ,c.company_name
   -- retrieve emplyee last name from Emplyees, aliased to e
+  ,e.last_name
+FROM (
+  -- find the customers that have orders, aliasing Customers and Orders
+  Orders o INNER JOIN C
