@@ -309,4 +309,6 @@ FROM (
 
 ### Best practices
 
-- qualify column names so that you know where data is c
+- qualify column names so that you know where data is coming from
+- do not make joins unneccessarily - joins are expensive
+- think about the t
