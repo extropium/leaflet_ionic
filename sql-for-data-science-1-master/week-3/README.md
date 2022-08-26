@@ -304,4 +304,9 @@ FROM (
   -- find the customers that have orders, aliasing Customers and Orders
   Orders o INNER JOIN Customers c ON o.customer_id = c.customer_id
   -- find the employees that are associated with the found orders
-) INNER JOIN
+) INNER JOIN Employees e ON o.employee_id = e.employee_id;
+```
+
+### Best practices
+
+- qualify column names so that you know where data is c
