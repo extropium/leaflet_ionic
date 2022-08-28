@@ -311,4 +311,9 @@ FROM (
 
 - qualify column names so that you know where data is coming from
 - do not make joins unneccessarily - joins are expensive
-- think about the t
+- think about the type of join you are making
+- consider how records are connected
+
+## Aliases and Self Joins
+
+[video](ht
