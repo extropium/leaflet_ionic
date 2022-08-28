@@ -318,4 +318,9 @@ FROM (
 
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/cQKUS/aliases-and-self-joins)
 
-### Aliase
+### Aliases
+
+Aliases give tables or columns a temporary name, and make column names more
+readable.
+
+Aliases e
