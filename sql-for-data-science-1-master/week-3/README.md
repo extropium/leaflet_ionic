@@ -316,4 +316,6 @@ FROM (
 
 ## Aliases and Self Joins
 
-[video](ht
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/cQKUS/aliases-and-self-joins)
+
+### Aliase
