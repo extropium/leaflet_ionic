@@ -323,4 +323,9 @@ FROM (
 Aliases give tables or columns a temporary name, and make column names more
 readable.
 
-Aliases e
+Aliases exist only for the duration of a query.
+
+```sql
+SELECT column_name
+FROM table_name AS alias_name;
+`
