@@ -328,4 +328,15 @@ Aliases exist only for the duration of a query.
 ```sql
 SELECT column_name
 FROM table_name AS alias_name;
-`
+```
+
+#### Example
+
+Without aliases:
+
+```sql
+SELECT
+  vendor_name
+  ,product_name
+  ,product_price
+FROM Vendors,
