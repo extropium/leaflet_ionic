@@ -339,4 +339,13 @@ SELECT
   vendor_name
   ,product_name
   ,product_price
-FROM Vendors,
+FROM Vendors, Products
+INNER JOIN Vendors.vendor_id = Products.vendor_id;
+```
+
+With aliases:
+
+```sql
+SELECT
+  v.vendor_name
+  
