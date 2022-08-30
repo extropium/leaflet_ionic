@@ -348,4 +348,7 @@ With aliases:
 ```sql
 SELECT
   v.vendor_name
-  
+  ,p.product_name
+  ,p.product_price
+FROM Vendors AS v, Products as p
+INNER JOIN v.vendor_id = v.vendor_
