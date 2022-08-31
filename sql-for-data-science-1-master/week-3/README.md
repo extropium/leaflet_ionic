@@ -351,4 +351,10 @@ SELECT
   ,p.product_name
   ,p.product_price
 FROM Vendors AS v, Products as p
-INNER JOIN v.vendor_id = v.vendor_
+INNER JOIN v.vendor_id = v.vendor_id;
+```
+
+### Self joins
+
+Self joins are joins that match records in a table with other records in the
+sam
