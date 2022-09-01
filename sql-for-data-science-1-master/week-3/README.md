@@ -367,4 +367,9 @@ SELECT
   ,b.customer_name AS c_name2
   a.city
 FROM Customers AS a, Customers as B
-WHE
+WHERE a.customer_id != b.customer_id
+  AND a.city = b.city
+ORDER BY a.city;
+```
+
+## Advanced Joins: Left
