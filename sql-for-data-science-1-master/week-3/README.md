@@ -363,4 +363,8 @@ An example would be finding customers that are in the same city:
 
 ```sql
 SELECT
-  a.custo
+  a.customer_name AS c_name1
+  ,b.customer_name AS c_name2
+  a.city
+FROM Customers AS a, Customers as B
+WHE
