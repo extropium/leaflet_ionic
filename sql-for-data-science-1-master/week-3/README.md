@@ -357,4 +357,10 @@ INNER JOIN v.vendor_id = v.vendor_id;
 ### Self joins
 
 Self joins are joins that match records in a table with other records in the
-sam
+same table.
+
+An example would be finding customers that are in the same city:
+
+```sql
+SELECT
+  a.custo
