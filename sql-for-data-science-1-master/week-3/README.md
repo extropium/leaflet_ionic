@@ -374,4 +374,8 @@ ORDER BY a.city;
 
 ## Advanced Joins: Left, Right, and Full Outer Joins
 
-[video](https://www.coursera.org/learn/sql-for-data-science/lecture/993cg/adva
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/993cg/advanced-joins-left-right-and-full-outer-joins)
+
+SQLite only does `LEFT` joins. Other DBMSs use all joins.
+
+#
