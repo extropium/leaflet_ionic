@@ -378,4 +378,9 @@ ORDER BY a.city;
 
 SQLite only does `LEFT` joins. Other DBMSs use all joins.
 
-#
+### Left join
+
+Returns all records from the left table, and all matching records from the right
+table.
+
+If the
