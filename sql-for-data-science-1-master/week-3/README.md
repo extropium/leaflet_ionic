@@ -372,4 +372,6 @@ WHERE a.customer_id != b.customer_id
 ORDER BY a.city;
 ```
 
-## Advanced Joins: Left
+## Advanced Joins: Left, Right, and Full Outer Joins
+
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/993cg/adva
