@@ -383,4 +383,6 @@ SQLite only does `LEFT` joins. Other DBMSs use all joins.
 Returns all records from the left table, and all matching records from the right
 table.
 
-If the
+If there is no match on the right, the result is NULL.
+
+<img alt="left join" src="../assets/week-3/left-join.j
