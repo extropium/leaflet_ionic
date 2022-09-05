@@ -392,4 +392,6 @@ customers who placed orders and their orders. A `LEFT JOIN` would result in a
 table with all customers, even those without orders, and all the orders, too.
 
 ```sql
--- get all custo
+-- get all customers, as well as orders for those customers who have orders
+SELECT
+  C.cust
