@@ -387,4 +387,6 @@ If there is no match on the right, the result is NULL.
 
 <img alt="left join" src="../assets/week-3/left-join.jpg" width="50%" />
 
-e.g. an `INNER JOIN` on customers and orders would result in a tabl
+e.g. an `INNER JOIN` on customers and orders would result in a table with only
+customers who placed orders and their orders. A `LEFT JOIN` would result in a
+table 
