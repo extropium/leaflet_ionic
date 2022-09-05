@@ -389,4 +389,7 @@ If there is no match on the right, the result is NULL.
 
 e.g. an `INNER JOIN` on customers and orders would result in a table with only
 customers who placed orders and their orders. A `LEFT JOIN` would result in a
-table 
+table with all customers, even those without orders, and all the orders, too.
+
+```sql
+-- get all custo
