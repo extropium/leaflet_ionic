@@ -385,4 +385,6 @@ table.
 
 If there is no match on the right, the result is NULL.
 
-<img alt="left join" src="../assets/week-3/left-join.j
+<img alt="left join" src="../assets/week-3/left-join.jpg" width="50%" />
+
+e.g. an `INNER JOIN` on customers and orders would result in a tabl
