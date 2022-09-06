@@ -406,4 +406,8 @@ ORDER BY C.customer_name;
 A `RIGHT JOIN` is similar to a `LEFT JOIN`, except that all records from the
 right table are returned, with only matching records in the left table.
 
-<img alt="right join" src="../assets/w
+<img alt="right join" src="../assets/week-3/right-join.jpg" width="50%" />
+
+The result from the left table will be NULL if there is no match.
+
+``
