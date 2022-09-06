@@ -394,4 +394,8 @@ table with all customers, even those without orders, and all the orders, too.
 ```sql
 -- get all customers, as well as orders for those customers who have orders
 SELECT
-  C.cust
+  C.customer_name
+  ,O.order_id
+FROM Customers AS C
+LEFT JOIN Orders AS O ON C.customer_id = O.customer_id
+ORDER BY C
