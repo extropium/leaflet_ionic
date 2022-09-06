@@ -403,4 +403,7 @@ ORDER BY C.customer_name;
 
 ### Right join
 
-A `RIGHT JOIN` is similar to a `LEFT JOIN`, except that all recor
+A `RIGHT JOIN` is similar to a `LEFT JOIN`, except that all records from the
+right table are returned, with only matching records in the left table.
+
+<img alt="right join" src="../assets/w
