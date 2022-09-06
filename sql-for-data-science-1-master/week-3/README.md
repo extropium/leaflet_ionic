@@ -398,4 +398,9 @@ SELECT
   ,O.order_id
 FROM Customers AS C
 LEFT JOIN Orders AS O ON C.customer_id = O.customer_id
-ORDER BY C
+ORDER BY C.customer_name;
+```
+
+### Right join
+
+A `RIGHT JOIN` is similar to a `LEFT JOIN`, except that all recor
