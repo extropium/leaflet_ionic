@@ -410,4 +410,6 @@ right table are returned, with only matching records in the left table.
 
 The result from the left table will be NULL if there is no match.
 
-``
+```sql
+-- get all employees, as well as orders assigned to employees that have orders
+-- assigned to the
