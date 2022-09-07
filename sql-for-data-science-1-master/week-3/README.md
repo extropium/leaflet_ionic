@@ -412,4 +412,10 @@ The result from the left table will be NULL if there is no match.
 
 ```sql
 -- get all employees, as well as orders assigned to employees that have orders
--- assigned to the
+-- assigned to them
+SELECT
+  O.order_id
+  ,E.last_name
+  ,E.first_name
+FROM Orders as O
+RIGHT JOIN Employees as 
