@@ -418,4 +418,8 @@ SELECT
   ,E.last_name
   ,E.first_name
 FROM Orders as O
-RIGHT JOIN Employees as 
+RIGHT JOIN Employees as E ON O.employee_id = E.employee_id
+ORDER BY E.employee_id;
+```
+
+Right joins can be tur
