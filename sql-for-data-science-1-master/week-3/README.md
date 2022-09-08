@@ -422,4 +422,5 @@ RIGHT JOIN Employees as E ON O.employee_id = E.employee_id
 ORDER BY E.employee_id;
 ```
 
-Right joins can be tur
+Right joins can be turned into left joins by reversing the order of the tables.
+The same applies to left joins being made into right jo
