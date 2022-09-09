@@ -433,4 +433,7 @@ A full outer join will return all results from both tables.
 
 ```sql
 SELECT
-  C.custome
+  C.customer_name
+  ,O.order_id
+FROM Customers AS C
+FULL OUTER JOIN Orders AS O ON C.customer_id = 
