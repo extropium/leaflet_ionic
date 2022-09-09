@@ -423,4 +423,10 @@ ORDER BY E.employee_id;
 ```
 
 Right joins can be turned into left joins by reversing the order of the tables.
-The same applies to left joins being made into right jo
+The same applies to left joins being made into right joins.
+
+### Full outer join
+
+A full outer join will return all results from both tables.
+
+<img alt="full o
