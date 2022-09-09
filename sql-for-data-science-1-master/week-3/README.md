@@ -429,4 +429,8 @@ The same applies to left joins being made into right joins.
 
 A full outer join will return all results from both tables.
 
-<img alt="full o
+<img alt="full outer join" src="../assets/week-3/full-outer-join.jpg" width="50%" />
+
+```sql
+SELECT
+  C.custome
