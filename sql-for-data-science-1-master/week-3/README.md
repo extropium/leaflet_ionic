@@ -436,4 +436,10 @@ SELECT
   C.customer_name
   ,O.order_id
 FROM Customers AS C
-FULL OUTER JOIN Orders AS O ON C.customer_id = 
+FULL OUTER JOIN Orders AS O ON C.customer_id = O.customer_id
+ORDER BY C.customer_name;
+```
+
+## Unions
+
+[video](https://www.coursera.org/learn/sql-fo
