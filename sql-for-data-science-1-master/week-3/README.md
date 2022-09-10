@@ -442,4 +442,6 @@ ORDER BY C.customer_name;
 
 ## Unions
 
-[video](https://www.coursera.org/learn/sql-fo
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/KxGPs/unions)
+
+A `UNION` is used to combine the result-s
