@@ -444,4 +444,8 @@ ORDER BY C.customer_name;
 
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/KxGPs/unions)
 
-A `UNION` is used to combine the result-s
+A `UNION` is used to combine the result-set of multiple `SELECT` statements.
+
+To create a union:
+
+- each `SELECT` statement must have the same 
