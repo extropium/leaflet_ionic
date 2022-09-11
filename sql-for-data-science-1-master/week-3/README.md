@@ -448,4 +448,6 @@ A `UNION` is used to combine the result-set of multiple `SELECT` statements.
 
 To create a union:
 
-- each `SELECT` statement must have the same 
+- each `SELECT` statement must have the same number of columns
+- the columns in each `SELECT` statement must be in the same order
+- the matching columns mus
