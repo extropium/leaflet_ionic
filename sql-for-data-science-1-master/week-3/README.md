@@ -450,4 +450,11 @@ To create a union:
 
 - each `SELECT` statement must have the same number of columns
 - the columns in each `SELECT` statement must be in the same order
-- the matching columns mus
+- the matching columns must have similar data types
+
+### Union syntax
+
+```sql
+SELECT [column_names] FROM table1
+UNION
+SELECT [columns_
