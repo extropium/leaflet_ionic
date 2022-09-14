@@ -457,4 +457,7 @@ To create a union:
 ```sql
 SELECT [column_names] FROM table1
 UNION
-SELECT [columns_
+SELECT [columns_names] FROM table2
+```
+
+e.g. getting records from `Customers` and `Suppliers` when evaluating a sp
