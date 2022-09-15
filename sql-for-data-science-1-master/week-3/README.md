@@ -460,4 +460,14 @@ UNION
 SELECT [columns_names] FROM table2
 ```
 
-e.g. getting records from `Customers` and `Suppliers` when evaluating a sp
+e.g. getting records from `Customers` and `Suppliers` when evaluating a specific
+country:
+
+```sql
+SELECT city, country
+FROM Customers
+WHERE country = 'Germany'
+
+UNION
+
+SELECT c
