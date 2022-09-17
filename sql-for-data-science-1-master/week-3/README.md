@@ -483,4 +483,6 @@ ORDER BY city
 
 ### Best practices using joins
 
-- it's easy to get results
+- it's easy to get results - it's important to confirm that they are the
+    correct results
+- validate the number of records returne
