@@ -470,4 +470,13 @@ WHERE country = 'Germany'
 
 UNION
 
-SELECT c
+SELECT city, country
+FROM Suppliers
+WHERE country = 'Germany'
+
+ORDER BY city
+```
+
+## Summary
+
+[video](https://www.
