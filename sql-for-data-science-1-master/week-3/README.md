@@ -485,4 +485,7 @@ ORDER BY city
 
 - it's easy to get results - it's important to confirm that they are the
     correct results
-- validate the number of records returne
+- validate the number of records returned against what you expect
+- is the result logical given the kind of join performed?
+- check for duplicates
+- c
