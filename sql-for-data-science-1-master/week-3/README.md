@@ -479,4 +479,8 @@ ORDER BY city
 
 ## Summary
 
-[video](https://www.
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/xEejU/summary)
+
+### Best practices using joins
+
+- it's easy to get results
