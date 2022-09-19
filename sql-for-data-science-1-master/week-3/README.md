@@ -492,4 +492,7 @@ ORDER BY city
 
 ### Slowly do
 
-- think about what you are tr
+- think about what you are trying to do before doing it
+- map how you are joining tables
+- consider what your query is trying to do
+
