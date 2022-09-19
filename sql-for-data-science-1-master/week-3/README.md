@@ -488,4 +488,8 @@ ORDER BY city
 - validate the number of records returned against what you expect
 - is the result logical given the kind of join performed?
 - check for duplicates
-- c
+- check the number of records each time you make a new join
+
+### Slowly do
+
+- think about what you are tr
