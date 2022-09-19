@@ -496,3 +496,7 @@ ORDER BY city
 - map how you are joining tables
 - consider what your query is trying to do
 
+### Joins and database performance
+
+- the more joins, the slower the database will perform
+- don't grab unnccessary data 
