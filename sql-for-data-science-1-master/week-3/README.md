@@ -499,4 +499,10 @@ ORDER BY city
 ### Joins and database performance
 
 - the more joins, the slower the database will perform
-- don't grab unnccessary data 
+- don't grab unnccessary data if you don't need to
+- be strategic
+- take only what you need
+
+### Join syntax
+
+Check the join syntax for the RDM
