@@ -505,4 +505,8 @@ ORDER BY city
 
 ### Join syntax
 
-Check the join syntax for the RDM
+Check the join syntax for the RDMS you are using.
+
+SQLite doesn't make use of `RIGHT` joins.
+
+<img alt="SQL join diagrams" src="../asse
