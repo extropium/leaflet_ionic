@@ -509,4 +509,4 @@ Check the join syntax for the RDMS you are using.
 
 SQLite doesn't make use of `RIGHT` joins.
 
-<img alt="SQL join diagrams" src="../asse
+<img alt="SQL join diagrams" src="../assets/week-3/join-diagrams.jpg" width="50%" />
