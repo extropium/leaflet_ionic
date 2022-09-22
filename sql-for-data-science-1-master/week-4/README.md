@@ -5,4 +5,6 @@
 
 
 - [Module Introduction](#module-introduction)
-  - [Methods for modif
+  - [Methods for modifying data](#methods-for-modifying-data)
+  - [Case statements](#case-statements)
+- [Working with Text St
