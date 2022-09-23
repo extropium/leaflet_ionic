@@ -9,4 +9,6 @@
   - [Case statements](#case-statements)
 - [Working with Text Strings](#working-with-text-strings)
   - [Working with string variables](#working-with-string-variables)
- 
+  - [Concatenations](#concatenations)
+  - [Trimming strings](#trimming-strings)
+  - [Substring](#substring)
