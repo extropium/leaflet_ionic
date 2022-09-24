@@ -12,3 +12,5 @@
   - [Concatenations](#concatenations)
   - [Trimming strings](#trimming-strings)
   - [Substring](#substring)
+  - [Upper and Lower](#upper-and-lower)
+- [Working with Date and Time Strings](#working-wi
