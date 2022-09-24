@@ -13,4 +13,6 @@
   - [Trimming strings](#trimming-strings)
   - [Substring](#substring)
   - [Upper and Lower](#upper-and-lower)
-- [Working with Date and Time Strings](#working-wi
+- [Working with Date and Time Strings](#working-with-date-and-time-strings)
+  - [Date formats](#date-formats)
+  - [SQLite date time functions](#sqlite-date-time-fun
