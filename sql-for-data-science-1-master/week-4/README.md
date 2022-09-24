@@ -15,4 +15,7 @@
   - [Upper and Lower](#upper-and-lower)
 - [Working with Date and Time Strings](#working-with-date-and-time-strings)
   - [Date formats](#date-formats)
-  - [SQLite date time functions](#sqlite-date-time-fun
+  - [SQLite date time functions](#sqlite-date-time-functions)
+  - [Timestrings](#timestrings)
+  - [Modifiers](#modifiers)
+- [Date and Time Strings
