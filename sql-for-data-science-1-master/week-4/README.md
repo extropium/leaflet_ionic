@@ -23,4 +23,7 @@
   - [Compute current date](#compute-current-date)
   - [Compute dates and times for the current date](#compute-dates-and-times-for-the-current-date)
 - [Case Statements](#case-statements)
-  - [Search case statement
+  - [Search case statement](#search-case-statement)
+- [Views](#views)
+  - [Creating a view](#creating-a-view)
+-
