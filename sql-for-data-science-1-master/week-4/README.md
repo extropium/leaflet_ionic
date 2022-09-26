@@ -20,4 +20,5 @@
   - [Modifiers](#modifiers)
 - [Date and Time Strings Examples](#date-and-time-strings-examples)
   - [`STRFTIME`](#strftime)
-  - [Compute curr
+  - [Compute current date](#compute-current-date)
+  - [Compute dates and times for the current date](#comp
