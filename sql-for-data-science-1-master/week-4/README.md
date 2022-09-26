@@ -18,4 +18,6 @@
   - [SQLite date time functions](#sqlite-date-time-functions)
   - [Timestrings](#timestrings)
   - [Modifiers](#modifiers)
-- [Date and Time Strings
+- [Date and Time Strings Examples](#date-and-time-strings-examples)
+  - [`STRFTIME`](#strftime)
+  - [Compute curr
