@@ -21,4 +21,6 @@
 - [Date and Time Strings Examples](#date-and-time-strings-examples)
   - [`STRFTIME`](#strftime)
   - [Compute current date](#compute-current-date)
-  - [Compute dates and times for the current date](#comp
+  - [Compute dates and times for the current date](#compute-dates-and-times-for-the-current-date)
+- [Case Statements](#case-statements)
+  - [Search case statement
