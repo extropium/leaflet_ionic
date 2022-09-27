@@ -27,4 +27,6 @@
 - [Views](#views)
   - [Creating a view](#creating-a-view)
 - [Data Governance and Profiling](#data-governance-and-profiling)
-  - [What is data profiling?
+  - [What is data profiling?](#what-is-data-profiling)
+    - [Object data profile](#object-data-profile)
+    - [Column data profile](#co
