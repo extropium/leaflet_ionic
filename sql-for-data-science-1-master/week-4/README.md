@@ -26,4 +26,5 @@
   - [Search case statement](#search-case-statement)
 - [Views](#views)
   - [Creating a view](#creating-a-view)
--
+- [Data Governance and Profiling](#data-governance-and-profiling)
+  - [What is data profiling?
