@@ -29,4 +29,6 @@
 - [Data Governance and Profiling](#data-governance-and-profiling)
   - [What is data profiling?](#what-is-data-profiling)
     - [Object data profile](#object-data-profile)
-    - [Column data profile](#co
+    - [Column data profile](#column-data-profile)
+  - [Governance best practises](#governance-best-practises)
+- [Using SQL for Data Scienc
