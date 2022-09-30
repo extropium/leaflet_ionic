@@ -34,4 +34,6 @@
 - [Using SQL for Data Science, Part 1](#using-sql-for-data-science-part-1)
   - [Working through a problem](#working-through-a-problem)
   - [Data understanding](#data-understanding)
-    - [Subject understanding](#subject-unders
+    - [Subject understanding](#subject-understanding)
+  - [Business understanding](#business-understanding)
+- [Using SQL for Data Science, 
