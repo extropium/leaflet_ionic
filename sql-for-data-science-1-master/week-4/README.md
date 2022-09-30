@@ -32,4 +32,6 @@
     - [Column data profile](#column-data-profile)
   - [Governance best practises](#governance-best-practises)
 - [Using SQL for Data Science, Part 1](#using-sql-for-data-science-part-1)
-  - [Working through a problem](#working-through-a-
+  - [Working through a problem](#working-through-a-problem)
+  - [Data understanding](#data-understanding)
+    - [Subject understanding](#subject-unders
