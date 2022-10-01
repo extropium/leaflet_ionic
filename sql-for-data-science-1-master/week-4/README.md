@@ -43,4 +43,8 @@
     - [Format and comment](#format-and-comment)
     - [Review](#review)
 
-<!-- END doctoc generated TOC please keep comment he
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Module Introduction
+
+[video](https://www.coursera.org/learn
