@@ -36,4 +36,6 @@
   - [Data understanding](#data-understanding)
     - [Subject understanding](#subject-understanding)
   - [Business understanding](#business-understanding)
-- [Using SQL for Data Science, 
+- [Using SQL for Data Science, Part 2](#using-sql-for-data-science-part-2)
+  - [Profiling data](#profiling-data)
+    - [Start with 
