@@ -47,4 +47,8 @@
 
 ## Module Introduction
 
-[video](https://www.coursera.org/learn
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/V9qBD/module-introduction)
+
+### Methods for modifying data
+
+- concatena
