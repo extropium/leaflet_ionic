@@ -59,4 +59,8 @@
 
 ### Case statements
 
-SQL's vers
+SQL's version of `IF`, `THEN`, and `ELSE` statements
+
+## Working with Text Strings
+
+[video](https://
