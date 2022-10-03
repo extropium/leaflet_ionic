@@ -51,4 +51,12 @@
 
 ### Methods for modifying data
 
-- concatena
+- concatenating
+- trimming
+- changing case
+- substring
+- date and time strings
+
+### Case statements
+
+SQL's vers
