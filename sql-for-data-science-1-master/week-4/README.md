@@ -63,4 +63,6 @@ SQL's version of `IF`, `THEN`, and `ELSE` statements
 
 ## Working with Text Strings
 
-[video](https://
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/yw49P/working-with-text-strings)
+
+### Working with string
