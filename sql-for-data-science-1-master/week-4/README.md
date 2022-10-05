@@ -65,4 +65,9 @@ SQL's version of `IF`, `THEN`, and `ELSE` statements
 
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/yw49P/working-with-text-strings)
 
-### Working with string
+### Working with string variables
+
+Manipulating strings on the server reduces work that needs to be done by the
+client.
+
+Strin
