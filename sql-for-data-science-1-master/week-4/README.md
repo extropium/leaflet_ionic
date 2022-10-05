@@ -70,4 +70,14 @@ SQL's version of `IF`, `THEN`, and `ELSE` statements
 Manipulating strings on the server reduces work that needs to be done by the
 client.
 
-Strin
+String functions:
+
+- concatenate
+- substring
+- trim
+- upper
+- lower
+
+### Concatenations
+
+In SQLit
