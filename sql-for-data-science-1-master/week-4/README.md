@@ -80,4 +80,8 @@ String functions:
 
 ### Concatenations
 
-In SQLit
+In SQLite one uses `||` to concatenate strings. SQL Server allows for `+` to
+concatenate strings.
+
+```sql
+SEL
