@@ -84,4 +84,8 @@ In SQLite one uses `||` to concatenate strings. SQL Server allows for `+` to
 concatenate strings.
 
 ```sql
-SEL
+SELECT
+  company_name
+  ,contact_name
+  ,compaany_name || ' (' || contact_name || ')'
+FROM Customers
