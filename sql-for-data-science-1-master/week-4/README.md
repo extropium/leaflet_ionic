@@ -89,3 +89,13 @@ SELECT
   ,contact_name
   ,compaany_name || ' (' || contact_name || ')'
 FROM Customers
+```
+
+### Trimming strings
+
+- `TRIM`
+- `RTRIM`
+- `LTRIM`
+
+```sql
+SELECT TRIM("   You the best ") AS trimmed
