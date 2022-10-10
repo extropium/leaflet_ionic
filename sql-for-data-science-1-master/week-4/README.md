@@ -103,4 +103,8 @@ SELECT TRIM("   You the best ") AS trimmed_string;
 
 ### Substring
 
-The `SUBSTR` command is 1-indexed. It accepts the string on which
+The `SUBSTR` command is 1-indexed. It accepts the string on which to operate,
+the starting index, and the number of characters to return from that index.
+
+```sql
+-- SUBSTR(
