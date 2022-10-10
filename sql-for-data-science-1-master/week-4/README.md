@@ -98,4 +98,9 @@ FROM Customers
 - `LTRIM`
 
 ```sql
-SELECT TRIM("   You the best ") AS trimmed
+SELECT TRIM("   You the best ") AS trimmed_string;
+```
+
+### Substring
+
+The `SUBSTR` command is 1-indexed. It accepts the string on which
