@@ -122,4 +122,10 @@ SELECT UPPER(first_name) FROM Customers
 -- or
 SELECT UCASE(first_name) FROM Customers
 
--- make string lowe
+-- make string lowercase
+SELECT LOWER(first_name) FROM Customers
+```
+
+## Working with Date and Time Strings
+
+[vid
