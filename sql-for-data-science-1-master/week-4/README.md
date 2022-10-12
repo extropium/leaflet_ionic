@@ -111,4 +111,11 @@ the starting index, and the number of characters to return from that index.
 
 SELECT first_name, SUBSTR(first_name, 2, 3)
 FROM Employees
-W
+WHERE department_id = 69;
+```
+
+### Upper and Lower
+
+```sql
+-- make string uppercase
+SELECT
