@@ -118,4 +118,8 @@ WHERE department_id = 69;
 
 ```sql
 -- make string uppercase
-SELECT
+SELECT UPPER(first_name) FROM Customers
+-- or
+SELECT UCASE(first_name) FROM Customers
+
+-- make string lowe
