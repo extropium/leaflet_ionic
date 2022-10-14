@@ -128,4 +128,4 @@ SELECT LOWER(first_name) FROM Customers
 
 ## Working with Date and Time Strings
 
-[vid
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/kbIot/working-with-date-and-time-strin
