@@ -133,4 +133,8 @@ SELECT LOWER(first_name) FROM Customers
 Dates are stored as `date` or `datetime` datatypes. The format of the date is
 dependent on the RDMS you are working with.
 
-If only the date portion of an entry is being queried, queries are gener
+If only the date portion of an entry is being queried, queries are generally
+quite easy. As soon as the time portion is included in the query complexity
+increases.
+
+When inserti
