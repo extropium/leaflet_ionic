@@ -128,4 +128,7 @@ SELECT LOWER(first_name) FROM Customers
 
 ## Working with Date and Time Strings
 
-[video](https://www.coursera.org/learn/sql-for-data-science/lecture/kbIot/working-with-date-and-time-strin
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/kbIot/working-with-date-and-time-strings)
+
+Dates are stored as `date` or `datetime` datatypes. The format of the date is
+dependent o
