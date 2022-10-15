@@ -131,4 +131,6 @@ SELECT LOWER(first_name) FROM Customers
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/kbIot/working-with-date-and-time-strings)
 
 Dates are stored as `date` or `datetime` datatypes. The format of the date is
-dependent o
+dependent on the RDMS you are working with.
+
+If only the date portion of an entry is being queried, queries are gener
