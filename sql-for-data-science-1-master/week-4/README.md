@@ -137,4 +137,5 @@ If only the date portion of an entry is being queried, queries are generally
 quite easy. As soon as the time portion is included in the query complexity
 increases.
 
-When inserti
+When inserting a date into a table, care must be taken to ensure that it is done
+so in the correct for
