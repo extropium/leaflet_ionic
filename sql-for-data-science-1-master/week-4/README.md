@@ -138,4 +138,13 @@ quite easy. As soon as the time portion is included in the query complexity
 increases.
 
 When inserting a date into a table, care must be taken to ensure that it is done
-so in the correct for
+so in the correct format.
+
+### Date formats
+
+`DATE`: `YYYY-MM-DD`
+
+`DATETIME`: `YYYY-MM-DD HH:MM:SS`
+
+`TIMESTAMP`: `YYYY-MM-DD HH:MM:SS`
+
