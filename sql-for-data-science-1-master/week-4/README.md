@@ -148,3 +148,7 @@ so in the correct format.
 
 `TIMESTAMP`: `YYYY-MM-DD HH:MM:SS`
 
+```sql
+-- querying a DATETIME field with:
+WHERE purchase_date = '2016-12-12'
+-- will return no re
