@@ -160,4 +160,6 @@ SQLite supports 5 date and time functions:
 
 ```sql
 DATE(timestring, [modifier, ...])
-TIME(timest
+TIME(timestring, [modifier, ...])
+DATETIME(timestring, [modifier, ...])
+JULIANDAY(timestring, [modifier, ..
