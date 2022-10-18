@@ -151,4 +151,8 @@ so in the correct format.
 ```sql
 -- querying a DATETIME field with:
 WHERE purchase_date = '2016-12-12'
--- will return no re
+-- will return no results because it's missing the _time_ portion of the data
+```
+
+### SQLite date time functions
+
