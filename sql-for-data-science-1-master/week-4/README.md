@@ -156,3 +156,8 @@ WHERE purchase_date = '2016-12-12'
 
 ### SQLite date time functions
 
+SQLite supports 5 date and time functions:
+
+```sql
+DATE(timestring, [modifier, ...])
+TIME(timest
