@@ -168,4 +168,11 @@ STRFTIME(format, timestring, [modifier, ...])
 
 ### Timestrings
 
-A time string can be in one of th
+A time string can be in one of the following formats:
+
+```
+YYYY-MM-DD
+YYYY-MM-DD HH:MM
+YYYY-MM-DD HH:MM:SS
+YYYY-MM-DD HH:MM:SS.SSS
+# T here is
