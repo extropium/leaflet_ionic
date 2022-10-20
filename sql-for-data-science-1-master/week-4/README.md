@@ -162,4 +162,10 @@ SQLite supports 5 date and time functions:
 DATE(timestring, [modifier, ...])
 TIME(timestring, [modifier, ...])
 DATETIME(timestring, [modifier, ...])
-JULIANDAY(timestring, [modifier, ..
+JULIANDAY(timestring, [modifier, ...])
+STRFTIME(format, timestring, [modifier, ...])
+```
+
+### Timestrings
+
+A time string can be in one of th
