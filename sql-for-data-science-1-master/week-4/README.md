@@ -178,4 +178,12 @@ YYYY-MM-DD HH:MM:SS.SSS
 # T here is a literal T delimiting the date from the time
 YYYY-MM-DDTHH:MM
 YYYY-MM-DDTHH:MM:SS
-YYYY-MM-D
+YYYY-MM-DDTHH:MM:SS.SSS
+HH:MM
+HH:MM:SS
+HH:MM:SS.SSS
+```
+
+### Modifiers
+
+Modifiers
