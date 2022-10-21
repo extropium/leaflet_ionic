@@ -175,4 +175,7 @@ YYYY-MM-DD
 YYYY-MM-DD HH:MM
 YYYY-MM-DD HH:MM:SS
 YYYY-MM-DD HH:MM:SS.SSS
-# T here is
+# T here is a literal T delimiting the date from the time
+YYYY-MM-DDTHH:MM
+YYYY-MM-DDTHH:MM:SS
+YYYY-MM-D
