@@ -186,4 +186,5 @@ HH:MM:SS.SSS
 
 ### Modifiers
 
-Modifiers
+Modifiers alter the date, and multiple modifiers can be applied to a date.
+Modifiers are applied in th
