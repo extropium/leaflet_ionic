@@ -187,4 +187,6 @@ HH:MM:SS.SSS
 ### Modifiers
 
 Modifiers alter the date, and multiple modifiers can be applied to a date.
-Modifiers are applied in th
+Modifiers are applied in the order they are provided, from left to right.
+
+The following modifiers add a specified amount to the
