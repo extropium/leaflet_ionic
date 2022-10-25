@@ -189,4 +189,15 @@ HH:MM:SS.SSS
 Modifiers alter the date, and multiple modifiers can be applied to a date.
 Modifiers are applied in the order they are provided, from left to right.
 
-The following modifiers add a specified amount to the
+The following modifiers add a specified amount to the date:
+
+```sql
+NNN days
+NNN hours
+NNN minutes
+NNN.NNN seconds
+NNN months
+NNN years
+```
+
+The followi
