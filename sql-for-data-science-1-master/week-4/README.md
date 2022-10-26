@@ -204,3 +204,8 @@ The following modifiers return a date "shifted back" from the provided date:
 
 ```sql
 start of month
+start of year
+start of day
+```
+
+`weekday N` shifts the date forward to the 0-indexed day in th
