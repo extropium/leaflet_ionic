@@ -208,4 +208,7 @@ start of year
 start of day
 ```
 
-`weekday N` shifts the date forward to the 0-indexed day in th
+`weekday N` shifts the date forward to the 0-indexed day in the future, unless
+the provided date is that index. Sunday is 0.
+
+`localtime` modifies UTC dates by shifting 
