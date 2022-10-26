@@ -200,4 +200,7 @@ NNN months
 NNN years
 ```
 
-The followi
+The following modifiers return a date "shifted back" from the provided date:
+
+```sql
+start of month
