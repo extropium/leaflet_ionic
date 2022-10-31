@@ -218,4 +218,8 @@ the process is running. `utc` is the inverse of `localtime`.
 
 ## Date and Time Strings Examples
 
-[video](https://www.coursera.org/learn/sql-fo
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/ayLVq/date-and-time-strings-examples)
+
+### `STRFTIME`
+
+`STRFTIME` extracts specific values from date
