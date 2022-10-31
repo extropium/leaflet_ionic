@@ -214,4 +214,8 @@ the provided date is that index. Sunday is 0.
 `localtime` modifies UTC dates by shifting the time to the localtime of where
 the process is running. `utc` is the inverse of `localtime`.
 
-`now` will r
+`now` will retrieve the current date and time.
+
+## Date and Time Strings Examples
+
+[video](https://www.coursera.org/learn/sql-fo
