@@ -222,4 +222,7 @@ the process is running. `utc` is the inverse of `localtime`.
 
 ### `STRFTIME`
 
-`STRFTIME` extracts specific values from date
+`STRFTIME` extracts specific values from dates.
+
+With a value such as a birth date, we often don't want any time information, and
+it is probable that it'll be
