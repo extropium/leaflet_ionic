@@ -225,4 +225,5 @@ the process is running. `utc` is the inverse of `localtime`.
 `STRFTIME` extracts specific values from dates.
 
 With a value such as a birth date, we often don't want any time information, and
-it is probable that it'll be
+it is probable that it'll be stored as `00:00:00` anyhow. We don't want to
+necessarily retrieve time information, so we can use 
