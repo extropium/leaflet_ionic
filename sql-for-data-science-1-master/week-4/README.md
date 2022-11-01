@@ -230,4 +230,8 @@ necessarily retrieve time information, so we can use `STRFTIME` to retrieve only
 portions of the date that are important to us.
 
 ```sql
--- get th
+-- get the year, month, and day of each employee
+SELECT
+  birthdate
+  , STRFTIME('%Y', birthdate) AS year
+  , 
