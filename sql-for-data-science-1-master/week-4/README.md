@@ -234,4 +234,9 @@ portions of the date that are important to us.
 SELECT
   birthdate
   , STRFTIME('%Y', birthdate) AS year
-  , 
+  , STRFTIME('%m', birthdate) AS month
+  , STRFTIME('%d', birthdate) AS day
+FROM employees
+```
+
+##
