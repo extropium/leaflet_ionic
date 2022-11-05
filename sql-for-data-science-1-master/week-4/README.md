@@ -239,4 +239,10 @@ SELECT
 FROM employees
 ```
 
-##
+### Compute current date
+
+```sql
+SELECT DATE('now')
+```
+
+This can be valuable to determine how long ago some event o
