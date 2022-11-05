@@ -246,4 +246,10 @@ SELECT DATE('now')
 ```
 
 This can be valuable to determine how long ago some event occurred, or to
-retrieve records that were created or updated within a specific period of time
+retrieve records that were created or updated within a specific period of time.
+
+### Compute dates and times for the current date
+
+```sql
+-- date
+SELECT STRFTIME('%Y %m %d
