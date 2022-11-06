@@ -260,3 +260,6 @@ SELECT STRFTIME('%H %M %S %s', 'now')
 -- compute employees' ages
 SELECT
   birthdate
+  ,STRFTIME('%Y', birthdate) AS year
+  ,STRFTIME('%m', birthdate) AS month
+  ,STRFTIME('%d', b
