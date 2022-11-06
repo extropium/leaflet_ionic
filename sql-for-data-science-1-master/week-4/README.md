@@ -252,4 +252,11 @@ retrieve records that were created or updated within a specific period of time.
 
 ```sql
 -- date
-SELECT STRFTIME('%Y %m %d
+SELECT STRFTIME('%Y %m %d', 'now')
+
+-- time
+SELECT STRFTIME('%H %M %S %s', 'now')
+
+-- compute employees' ages
+SELECT
+  birthdate
