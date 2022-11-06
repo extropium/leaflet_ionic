@@ -262,4 +262,11 @@ SELECT
   birthdate
   ,STRFTIME('%Y', birthdate) AS year
   ,STRFTIME('%m', birthdate) AS month
-  ,STRFTIME('%d', b
+  ,STRFTIME('%d', birthdate) AS day
+  ,DATE(('now') - birthdate) AS age
+FROM employees
+```
+
+## Case Statements
+
+[video](https://www.cou
