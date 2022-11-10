@@ -273,4 +273,15 @@ FROM employees
 
 Case statements in SQL mimic if-else statements in general programming.
 
-Case statements can be used in any clause that accepts a valid
+Case statements can be used in any clause that accepts a valid expression, e.g.
+
+- `WHERE`
+- `ORDER BY`
+- `HAVING`
+
+and in statements:
+
+- `SELECT`
+- `INSERT`
+- `UPDATE`
+-
