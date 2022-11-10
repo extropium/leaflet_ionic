@@ -269,4 +269,6 @@ FROM employees
 
 ## Case Statements
 
-[video](https://www.cou
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/qsHKS/case-statements)
+
+Case statements in SQL mimic if-e
