@@ -271,4 +271,6 @@ FROM employees
 
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/qsHKS/case-statements)
 
-Case statements in SQL mimic if-e
+Case statements in SQL mimic if-else statements in general programming.
+
+Case statements can be used in any clause that accepts a valid
