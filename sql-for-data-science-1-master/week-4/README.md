@@ -284,4 +284,14 @@ and in statements:
 - `SELECT`
 - `INSERT`
 - `UPDATE`
--
+- `DELETE`
+
+```sql
+CASE [input_expression]
+  WHEN c1 THEN e1
+  WHEN c2 THEN e2
+  ELSE e3
+END column_name
+```
+
+e
