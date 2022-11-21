@@ -294,4 +294,12 @@ CASE [input_expression]
 END column_name
 ```
 
-e
+e.g.
+
+```sql
+SELECT
+  employee_id
+  ,firstname
+  ,lastname
+  ,CASE city
+    WHEN 'Calgary' THE
