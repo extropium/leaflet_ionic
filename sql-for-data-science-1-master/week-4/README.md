@@ -302,4 +302,11 @@ SELECT
   ,firstname
   ,lastname
   ,CASE city
-    WHEN 'Calgary' THE
+    WHEN 'Calgary' THEN 'Calgary'
+    ELSE 'Other'
+  END city
+FROM Employees
+ORDER BY lastname, firstname;
+```
+
+As with pro
