@@ -310,4 +310,7 @@ ORDER BY lastname, firstname;
 ```
 
 As with programming languages, `CASE` in SQL will short-circuit on a true
-statement, and no further statements will be evalua
+statement, and no further statements will be evaluated. If `ELSE` is omitted and
+no `WHEN` statements evaluate to true, `NULL` will be returned.
+
+### Search
