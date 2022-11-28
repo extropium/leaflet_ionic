@@ -313,4 +313,7 @@ As with programming languages, `CASE` in SQL will short-circuit on a true
 statement, and no further statements will be evaluated. If `ELSE` is omitted and
 no `WHEN` statements evaluate to true, `NULL` will be returned.
 
-### Search
+### Search case statement
+
+By omitting the optional input expression that directly follows the `CASE`
+keyword one can use the `W
