@@ -309,4 +309,5 @@ FROM Employees
 ORDER BY lastname, firstname;
 ```
 
-As with pro
+As with programming languages, `CASE` in SQL will short-circuit on a true
+statement, and no further statements will be evalua
