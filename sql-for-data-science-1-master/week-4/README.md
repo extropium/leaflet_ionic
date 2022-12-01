@@ -316,4 +316,8 @@ no `WHEN` statements evaluate to true, `NULL` will be returned.
 ### Search case statement
 
 By omitting the optional input expression that directly follows the `CASE`
-keyword one can use the `W
+keyword one can use the `WHEN` statements to evaluate and compare values:
+
+```sql
+CASE
+  WHEN result_expression [...
