@@ -320,4 +320,17 @@ keyword one can use the `WHEN` statements to evaluate and compare values:
 
 ```sql
 CASE
-  WHEN result_expression [...
+  WHEN result_expression [...n]
+  [ELSE else_result]
+END
+```
+
+e.g.:
+
+```sql
+SELECT
+  track_id
+  ,name
+  ,bytes
+  ,CASE
+    WHEN bytes < 3000
