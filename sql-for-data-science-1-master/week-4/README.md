@@ -333,4 +333,6 @@ SELECT
   ,name
   ,bytes
   ,CASE
-    WHEN bytes < 3000
+    WHEN bytes < 30000 THEN 'small'
+    WHEN bytes >= 30001 AND bytes <= 50000 THEN 'medium'
+    WHEN bytes
