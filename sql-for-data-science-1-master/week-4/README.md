@@ -341,4 +341,8 @@ SELECT
 FROM Tracks;
 ```
 
-`THEN` can return anothe
+`THEN` can return another column, not only text or hard-coded values.
+
+## Views
+
+[video](https://www.coursera.org/learn/sql-for-da
