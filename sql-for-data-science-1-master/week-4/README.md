@@ -345,4 +345,6 @@ FROM Tracks;
 
 ## Views
 
-[video](https://www.coursera.org/learn/sql-for-da
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/Ml5XL/views)
+
+Views are stored queries. With a view, one can add or remove columns wi
