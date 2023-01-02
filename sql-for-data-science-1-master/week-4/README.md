@@ -335,4 +335,10 @@ SELECT
   ,CASE
     WHEN bytes < 30000 THEN 'small'
     WHEN bytes >= 30001 AND bytes <= 50000 THEN 'medium'
-    WHEN bytes
+    WHEN bytes > 50000 THEN 'large'
+    ELSE 'Other'
+  END bytes_category
+FROM Tracks;
+```
+
+`THEN` can return anothe
