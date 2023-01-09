@@ -347,4 +347,7 @@ FROM Tracks;
 
 [video](https://www.coursera.org/learn/sql-for-data-science/lecture/Ml5XL/views)
 
-Views are stored queries. With a view, one can add or remove columns wi
+Views are stored queries. With a view, one can add or remove columns without
+changing the schema. They can also be used to encapsulate queries.
+
+Views persist until the 
