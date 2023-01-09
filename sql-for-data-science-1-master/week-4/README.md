@@ -354,4 +354,7 @@ Views persist until the database connection is closed.
 
 ```sql
 CREATE [TEMP] VIEW [IF NOT EXISTS] view_name(column-name-list) AS
-  SELECT .
+  SELECT ...
+```
+
+`IF NOT EXISTS` can be used to determine whether the view should be created or
