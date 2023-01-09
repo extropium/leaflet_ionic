@@ -350,4 +350,8 @@ FROM Tracks;
 Views are stored queries. With a view, one can add or remove columns without
 changing the schema. They can also be used to encapsulate queries.
 
-Views persist until the 
+Views persist until the database connection is closed.
+
+```sql
+CREATE [TEMP] VIEW [IF NOT EXISTS] view_name(column-name-list) AS
+  SELECT .
