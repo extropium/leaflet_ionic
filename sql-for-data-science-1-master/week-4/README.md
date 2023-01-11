@@ -358,3 +358,9 @@ CREATE [TEMP] VIEW [IF NOT EXISTS] view_name(column-name-list) AS
 ```
 
 `IF NOT EXISTS` can be used to determine whether the view should be created or
+not based on the name provided when creating the view.
+
+### Creating a view
+
+```sql
+-- create a view called my
