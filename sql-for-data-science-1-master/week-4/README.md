@@ -373,4 +373,6 @@ CREATE VIEW my_view AS
     ,e.firstname
     ,e.hire_date
     ,e.reports_to
-  -- obtaine
+  -- obtained by selecting from 4 tables, joined using an INNER JOIN
+  FROM Regions r
+    INNER JOIN Territ
