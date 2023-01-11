@@ -368,4 +368,9 @@ CREATE VIEW my_view AS
   -- there are 6 columns
   SELECT
     r.region_description
-    ,t.territory_descripti
+    ,t.territory_description
+    ,e.lastname
+    ,e.firstname
+    ,e.hire_date
+    ,e.reports_to
+  -- obtaine
