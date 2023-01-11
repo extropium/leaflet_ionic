@@ -363,4 +363,9 @@ not based on the name provided when creating the view.
 ### Creating a view
 
 ```sql
--- create a view called my
+-- create a view called my_view where...
+CREATE VIEW my_view AS
+  -- there are 6 columns
+  SELECT
+    r.region_description
+    ,t.territory_descripti
