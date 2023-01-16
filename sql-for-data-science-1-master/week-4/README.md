@@ -376,4 +376,8 @@ CREATE VIEW my_view AS
   -- obtained by selecting from 4 tables, joined using an INNER JOIN
   FROM Regions r
     INNER JOIN Territories t ON r.region_id = t.region_id
-    INNER JOIN EmployeeTerritories et ON t.territory_id = et.territory_i
+    INNER JOIN EmployeeTerritories et ON t.territory_id = et.territory_id
+    INNER_JOIN Employees e on et.employee_id = e.employee_id
+```
+
+To actually use the view, one treat
