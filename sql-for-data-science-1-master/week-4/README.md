@@ -375,4 +375,5 @@ CREATE VIEW my_view AS
     ,e.reports_to
   -- obtained by selecting from 4 tables, joined using an INNER JOIN
   FROM Regions r
-    INNER JOIN Territ
+    INNER JOIN Territories t ON r.region_id = t.region_id
+    INNER JOIN EmployeeTerritories et ON t.territory_id = et.territory_i
