@@ -380,4 +380,10 @@ CREATE VIEW my_view AS
     INNER_JOIN Employees e on et.employee_id = e.employee_id
 ```
 
-To actually use the view, one treat
+To actually use the view, one treats it as if it were an existing table:
+
+```sql
+SELECT *
+FROM my_view
+DROP VIEW my_view;
+`
