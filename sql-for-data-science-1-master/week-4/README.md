@@ -386,4 +386,14 @@ To actually use the view, one treats it as if it were an existing table:
 SELECT *
 FROM my_view
 DROP VIEW my_view;
-`
+```
+
+e.g.:
+
+```sql
+SELECT
+  COUNT(territory_description)
+  ,firstname
+  ,lastname
+FROM my_view
+GROUP BY l
