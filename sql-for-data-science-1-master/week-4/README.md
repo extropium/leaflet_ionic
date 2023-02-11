@@ -405,4 +405,8 @@ Views can be useful in environments where you're unable to write data to tables.
 
 ## Data Governance and Profiling
 
-[video](https://www.coursera.org/learn/sql-for-data-science/lecture/icb6W/data-governance
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/icb6W/data-governance-and-profiling)
+
+### What is data profiling?
+
+Data profiling is the process of examining data for completenes
