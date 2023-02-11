@@ -401,4 +401,6 @@ GROUP BY lastname, firstname;
 
 If a view is no longer required, one should clean up by `DROP`ping the view.
 
-Views
+Views can be useful in environments where you're unable to write data to tables.
+
+## Data Governance and 
