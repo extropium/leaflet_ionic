@@ -403,4 +403,6 @@ If a view is no longer required, one should clean up by `DROP`ping the view.
 
 Views can be useful in environments where you're unable to write data to tables.
 
-## Data Governance and 
+## Data Governance and Profiling
+
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/icb6W/data-governance
