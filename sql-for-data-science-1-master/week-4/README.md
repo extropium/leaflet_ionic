@@ -396,4 +396,9 @@ SELECT
   ,firstname
   ,lastname
 FROM my_view
-GROUP BY l
+GROUP BY lastname, firstname;
+```
+
+If a view is no longer required, one should clean up by `DROP`ping the view.
+
+Views
