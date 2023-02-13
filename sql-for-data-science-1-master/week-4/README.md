@@ -414,4 +414,9 @@ order to understand the data before querying it.
 
 #### Object data profile
 
-- understan
+- understanding how many rows of data are in the table
+- when data was last updated
+
+#### Column data profile
+
+-
