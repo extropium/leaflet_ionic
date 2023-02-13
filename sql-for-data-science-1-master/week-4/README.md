@@ -409,4 +409,9 @@ Views can be useful in environments where you're unable to write data to tables.
 
 ### What is data profiling?
 
-Data profiling is the process of examining data for completenes
+Data profiling is the process of examining data for completeness and accuracy in
+order to understand the data before querying it.
+
+#### Object data profile
+
+- understan
