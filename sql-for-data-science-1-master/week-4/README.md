@@ -419,4 +419,5 @@ order to understand the data before querying it.
 
 #### Column data profile
 
--
+- evaluating the data types of each column
+- evaluating the number of distinct values in a 
