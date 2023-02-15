@@ -420,4 +420,7 @@ order to understand the data before querying it.
 #### Column data profile
 
 - evaluating the data types of each column
-- evaluating the number of distinct values in a 
+- evaluating the number of distinct values in a column
+- evaluating the number of NULL vs non-NULL values
+- descriptive statistics:
+    - maximums and
