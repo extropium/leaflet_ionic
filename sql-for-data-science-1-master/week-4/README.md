@@ -423,4 +423,8 @@ order to understand the data before querying it.
 - evaluating the number of distinct values in a column
 - evaluating the number of NULL vs non-NULL values
 - descriptive statistics:
-    - maximums and
+    - maximums and minimums
+    - averages
+    - standard deviation for column values
+
+The reason one profiles thei
