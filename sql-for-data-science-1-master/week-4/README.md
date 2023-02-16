@@ -427,4 +427,5 @@ order to understand the data before querying it.
     - averages
     - standard deviation for column values
 
-The reason one profiles thei
+The reason one profiles their data is to understand what their data is so that
+they can test it. Without profiling data first, one wou
