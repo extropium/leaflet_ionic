@@ -437,4 +437,7 @@ These are the rules around data in an organisation.
 
 - understand your read and write priveleges
 - cleaning up data while experimenting and evaluating queries
-- what is the process followed when 
+- what is the process followed when changes are made, e.g. a model requires
+    updating, and its associated tables
+
+## Using SQL for Data Scienc
