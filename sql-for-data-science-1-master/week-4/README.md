@@ -428,4 +428,7 @@ order to understand the data before querying it.
     - standard deviation for column values
 
 The reason one profiles their data is to understand what their data is so that
-they can test it. Without profiling data first, one wou
+they can test it. Without profiling data first, one would find it more difficult
+to determine when queries are not returning expected results.
+
+### Governance best pra
