@@ -435,4 +435,6 @@ to determine when queries are not returning expected results.
 
 These are the rules around data in an organisation.
 
-- understand your read and write privelege
+- understand your read and write priveleges
+- cleaning up data while experimenting and evaluating queries
+- what is the process followed when 
