@@ -431,4 +431,8 @@ The reason one profiles their data is to understand what their data is so that
 they can test it. Without profiling data first, one would find it more difficult
 to determine when queries are not returning expected results.
 
-### Governance best pra
+### Governance best practises
+
+These are the rules around data in an organisation.
+
+- understand your read and write privelege
