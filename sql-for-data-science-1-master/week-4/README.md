@@ -442,4 +442,10 @@ These are the rules around data in an organisation.
 
 ## Using SQL for Data Science, Part 1
 
-[video](https://www.coursera.org/learn/sql-for-data-science/lecture/Mq7rr/using-sql-fo
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/Mq7rr/using-sql-for-data-science-part-1)
+
+### Working through a problem
+
+- data understanding
+- business understanding
+- prof
