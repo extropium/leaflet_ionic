@@ -448,4 +448,12 @@ These are the rules around data in an organisation.
 
 - data understanding
 - business understanding
-- prof
+- profiling
+  - start with `SELECT`
+  - test
+  - format and comment
+  - review
+
+### Data understanding
+
+Under
