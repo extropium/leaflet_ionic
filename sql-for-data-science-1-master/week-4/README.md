@@ -440,4 +440,6 @@ These are the rules around data in an organisation.
 - what is the process followed when changes are made, e.g. a model requires
     updating, and its associated tables
 
-## Using SQL for Data Scienc
+## Using SQL for Data Science, Part 1
+
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/Mq7rr/using-sql-fo
