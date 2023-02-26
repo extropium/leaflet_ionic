@@ -456,4 +456,7 @@ These are the rules around data in an organisation.
 
 ### Data understanding
 
-Under
+Understanding the data you'll be working with is the most important step. This
+includes:
+
+- understanding relat
