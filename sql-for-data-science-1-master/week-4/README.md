@@ -461,4 +461,8 @@ includes:
 
 - understanding relationships, i.e. entity diagrams
 - evaluating columns that have NULL values
-- how are string values inser
+- how are string values inserted, e.g. generated, or user input
+
+#### Subject understanding
+
+Without understanding the subject of focus, writing queries may take more
