@@ -465,4 +465,8 @@ includes:
 
 #### Subject understanding
 
-Without understanding the subject of focus, writing queries may take more
+Without understanding the subject of focus, writing queries may take more time.
+
+- understanding where data joins are
+- differentiating integers from strings
+- investing time to understand th
