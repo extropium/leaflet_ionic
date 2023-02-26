@@ -459,4 +459,6 @@ These are the rules around data in an organisation.
 Understanding the data you'll be working with is the most important step. This
 includes:
 
-- understanding relat
+- understanding relationships, i.e. entity diagrams
+- evaluating columns that have NULL values
+- how are string values inser
