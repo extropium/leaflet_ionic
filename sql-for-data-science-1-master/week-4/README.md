@@ -469,4 +469,8 @@ Without understanding the subject of focus, writing queries may take more time.
 
 - understanding where data joins are
 - differentiating integers from strings
-- investing time to understand th
+- investing time to understand the subject matter will help later during analysis
+
+### Business understanding
+
+It's important to be 
