@@ -473,4 +473,6 @@ Without understanding the subject of focus, writing queries may take more time.
 
 ### Business understanding
 
-It's important to be 
+It's important to be able to distinguish between business requirements and the
+data required to solve that requirement.
+
