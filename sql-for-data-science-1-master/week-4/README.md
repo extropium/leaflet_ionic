@@ -479,4 +479,5 @@ data required to solve that requirement.
 Understanding the problem at a core level is important:
 
 - which customers do we want to study?
-- should we omit cer
+- should we omit certain customers based on some criteria?
+- what data is important when drilling down on a specif
