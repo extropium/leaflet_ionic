@@ -484,4 +484,8 @@ Understanding the problem at a core level is important:
 
 ## Using SQL for Data Science, Part 2
 
-[video](https://www.coursera.org/learn/sql-for-data-science/lect
+[video](https://www.coursera.org/learn/sql-for-data-science/lecture/Bpbog/using-sql-for-data-science-part-2)
+
+### Profiling data
+
+Profiling data is about drilling 
