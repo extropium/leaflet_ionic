@@ -480,4 +480,8 @@ Understanding the problem at a core level is important:
 
 - which customers do we want to study?
 - should we omit certain customers based on some criteria?
-- what data is important when drilling down on a specif
+- what data is important when drilling down on a specific entity?
+
+## Using SQL for Data Science, Part 2
+
+[video](https://www.coursera.org/learn/sql-for-data-science/lect
