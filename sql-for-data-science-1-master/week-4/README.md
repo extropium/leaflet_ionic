@@ -476,3 +476,7 @@ Without understanding the subject of focus, writing queries may take more time.
 It's important to be able to distinguish between business requirements and the
 data required to solve that requirement.
 
+Understanding the problem at a core level is important:
+
+- which customers do we want to study?
+- should we omit cer
