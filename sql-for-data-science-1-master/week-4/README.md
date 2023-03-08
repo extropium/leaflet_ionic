@@ -488,4 +488,8 @@ Understanding the problem at a core level is important:
 
 ### Profiling data
 
-Profiling data is about drilling 
+Profiling data is about drilling down into the details of your data.
+
+This includes:
+
+- creating a data model and mapping the fields and tables
