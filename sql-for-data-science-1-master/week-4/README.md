@@ -492,4 +492,6 @@ Profiling data is about drilling down into the details of your data.
 
 This includes:
 
-- creating a data model and mapping the fields and tables
+- creating a data model and mapping the fields and tables you need
+- considering joins and calculations
+- understanding where there may be any da
