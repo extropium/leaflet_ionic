@@ -494,4 +494,8 @@ This includes:
 
 - creating a data model and mapping the fields and tables you need
 - considering joins and calculations
-- understanding where there may be any da
+- understanding where there may be any data quality or format issues
+
+#### Start with `SELECT`
+
+Especially if you're unfamiliar with the d
