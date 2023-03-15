@@ -498,4 +498,7 @@ This includes:
 
 #### Start with `SELECT`
 
-Especially if you're unfamiliar with the d
+Especially if you're unfamiliar with the data, start small. Every statement
+starts with a `SELECT`.
+
+If using subqueries, start with the innermost qu
