@@ -505,4 +505,7 @@ If using subqueries, start with the innermost query, and work out from there.
 
 #### Test and troubleshoot
 
-- don't want until the end to test que
+- don't want until the end to test queries
+- test queries after each join or filter
+- evaluate the results
+- start small and evaluate s
