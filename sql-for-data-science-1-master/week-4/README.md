@@ -501,4 +501,8 @@ This includes:
 Especially if you're unfamiliar with the data, start small. Every statement
 starts with a `SELECT`.
 
-If using subqueries, start with the innermost qu
+If using subqueries, start with the innermost query, and work out from there.
+
+#### Test and troubleshoot
+
+- don't want until the end to test que
