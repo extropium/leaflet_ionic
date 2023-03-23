@@ -512,4 +512,8 @@ If using subqueries, start with the innermost query, and work out from there.
 
 #### Format and comment
 
-- use the correct formatting 
+- use the correct formatting and indentation
+- comment strategically
+- clean code and comments help when handing off or revisiting code
+
+##
