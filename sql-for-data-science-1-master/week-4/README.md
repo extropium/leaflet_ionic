@@ -508,4 +508,8 @@ If using subqueries, start with the innermost query, and work out from there.
 - don't want until the end to test queries
 - test queries after each join or filter
 - evaluate the results
-- start small and evaluate s
+- start small and evaluate step-by-step when troubleshooting queries
+
+#### Format and comment
+
+- use the correct formatting 
