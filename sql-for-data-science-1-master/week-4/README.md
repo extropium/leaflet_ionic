@@ -516,4 +516,7 @@ If using subqueries, start with the innermost query, and work out from there.
 - comment strategically
 - clean code and comments help when handing off or revisiting code
 
-##
+#### Review
+
+- always review old queries
+- evaluate that queries are in alignment with business rules
